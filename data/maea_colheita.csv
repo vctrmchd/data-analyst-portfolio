@@ -1,0 +1,3434 @@
+dia,partilha,cultivar,quantidade
+01/02/2020,1,Batata Doce Branca,34.00
+01/02/2020,1,Avocado,20.00
+01/02/2020,1,Mamão Formosa,14.50
+01/02/2020,1,Mini Moranga,6.00
+01/02/2020,1,Rúcula,5.50
+01/02/2020,1,Almeirão Branco,5.00
+01/02/2020,1,Cebolinha,3.50
+01/02/2020,1,Salsinha,1.40
+08/02/2020,2,Batata Doce Branca,25.00
+08/02/2020,2,Abacate Bolinha,17.00
+08/02/2020,2,Avocado,13.00
+08/02/2020,2,Lima Da Pérsia,7.00
+08/02/2020,2,Rúcula,2.00
+08/02/2020,2,Alface Roxo,2.00
+08/02/2020,2,Alface Romana,2.00
+08/02/2020,2,Mostarda Crespa,2.00
+08/02/2020,2,Coentro,1.00
+08/02/2020,2,Manjericão Grecco,1.00
+15/02/2020,3,Avocado,30.00
+15/02/2020,3,Coco Baiano,24.50
+15/02/2020,3,Batata Doce Branca,20.70
+15/02/2020,3,Almeirão Branco,8.00
+15/02/2020,3,Beldroega,5.00
+15/02/2020,3,Cebolinha,4.00
+15/02/2020,3,Quiabo,3.00
+15/02/2020,3,Rabanete,1.80
+22/02/2020,4,Avocado,23.40
+22/02/2020,4,Batata Doce Branca,20.00
+22/02/2020,4,Almeirão Branco,6.00
+22/02/2020,4,Jaboticaba,4.40
+22/02/2020,4,Quiabo,4.00
+22/02/2020,4,Rúcula,1.90
+22/02/2020,4,Boldinho Chileno,1.00
+29/02/2020,5,Avocado,27.00
+29/02/2020,5,Mandioca,21.10
+29/02/2020,5,Quiabo,5.80
+29/02/2020,5,Batata Doce Branca,4.60
+29/02/2020,5,Cebolinha,3.70
+29/02/2020,5,Beldroega,2.00
+29/02/2020,5,Manjericão Grecco,1.40
+29/02/2020,5,Salsinha,0.83
+07/03/2020,6,Avocado,26.00
+07/03/2020,6,Mandioca,21.00
+07/03/2020,6,Quiabo,5.50
+07/03/2020,6,Rúcula,3.90
+07/03/2020,6,Alface Romana,2.20
+07/03/2020,6,Alface Babá De Verão,2.20
+07/03/2020,6,Cebolinha,1.00
+07/03/2020,6,Camomila,0.05
+07/03/2020,6,Sementes De Coentro,0.12
+14/03/2020,7,Avocado,14.60
+14/03/2020,7,Abacate,14.00
+14/03/2020,7,Mandioca,13.70
+14/03/2020,7,Quiabo,8.60
+14/03/2020,7,Rúcula,4.30
+14/03/2020,7,Beldroega,3.40
+14/03/2020,7,Alface Elba,2.70
+14/03/2020,7,Cebolinha,2.40
+14/03/2020,7,Caruru Amarantos,2.00
+14/03/2020,7,Alface Crespa,1.55
+21/03/2020,8,Avocado,22.60
+21/03/2020,8,Mandioca,15.10
+21/03/2020,8,Quiabo,13.80
+21/03/2020,8,Abacate,7.50
+21/03/2020,8,Alface Elba,5.80
+21/03/2020,8,Berinjela Comprida,5.50
+21/03/2020,8,Milho Roxo Peruano,5.50
+21/03/2020,8,Alface Babá De Verão,4.10
+21/03/2020,8,Rúcula,4.10
+28/03/2020,9,Abacate,16.00
+28/03/2020,9,Batata Doce Branca,15.90
+28/03/2020,9,Quiabo,10.60
+28/03/2020,9,Feijão Orelha De Porco,8.70
+28/03/2020,9,Mostarda,6.00
+28/03/2020,9,Rabanete,4.00
+28/03/2020,9,Berinjela Comprida,3.40
+28/03/2020,9,Alface Elba,3.20
+28/03/2020,9,Rúcula,3.00
+28/03/2020,9,Alface Babá De Verão,3.00
+28/03/2020,9,Alho Poró,2.90
+28/03/2020,9,Cebolinha,2.15
+28/03/2020,9,Salsinha,1.07
+28/03/2020,9,Pimenta Biquinho Amarela,0.80
+28/03/2020,9,Manjericão Grecco,0.29
+28/03/2020,9,Pimenta Biquinho Vermelha,0.20
+04/04/2020,10,Quiabo Santa Cruz,14.30
+04/04/2020,10,Alface Elba,12.10
+04/04/2020,10,Batata Doce Branca,11.50
+04/04/2020,10,Cenoura,10.60
+04/04/2020,10,Berinjela,6.10
+04/04/2020,10,Rúcula,5.60
+04/04/2020,10,Maxixe Do Norte,3.70
+04/04/2020,10,Jiló Morro Redondo,2.90
+04/04/2020,10,Pimenta Biquinho Amarela E Vermelha,0.60
+11/04/2020,11,Quiabo Santa Cruz,13.40
+11/04/2020,11,Batata Doce Branca,11.50
+11/04/2020,11,Rúcula,7.70
+11/04/2020,11,Rábano Minowase,5.50
+11/04/2020,11,Almeirão Branco,5.50
+11/04/2020,11,Mostarda,5.40
+11/04/2020,11,Hortelã Do Norte,3.00
+11/04/2020,11,Jiló Morro Redondo,2.68
+11/04/2020,11,Rabanete,2.25
+11/04/2020,11,Cebolinha,1.65
+11/04/2020,11,Salsa,0.98
+11/04/2020,11,Urucum,0.52
+18/04/2020,12,Quiabo Santa Cruz,11.90
+18/04/2020,12,Berinjela,11.10
+18/04/2020,12,Batata Doce Branca,5.90
+18/04/2020,12,Rabanete,5.60
+18/04/2020,12,Rábano Minowase,5.10
+18/04/2020,12,Rúcula,5.00
+18/04/2020,12,Cenoura,4.70
+18/04/2020,12,Maxixe Do Norte,3.80
+18/04/2020,12,Jiló Morro Redondo,3.70
+18/04/2020,12,Almeirão Branco,3.70
+18/04/2020,12,Pimenta Biquinho Amarela E Vermelha,0.93
+18/04/2020,12,Hortelã,0.71
+25/04/2020,13,Quiabo Santa Cruz,11.60
+25/04/2020,13,Rabanete,6.20
+25/04/2020,13,Batata Doce Branca,6.00
+25/04/2020,13,Berinjela,5.10
+25/04/2020,13,Rúcula,3.00
+25/04/2020,13,Jiló Morro Redondo,2.85
+25/04/2020,13,Alho Poró,2.00
+25/04/2020,13,Maxixe Do Norte,1.75
+25/04/2020,13,Salsa,0.87
+25/04/2020,13,Cebolinha,0.63
+25/04/2020,13,Alfavacão Cravo,0.50
+02/05/2020,14,Mamão Formosa,32.30
+02/05/2020,14,Couve Chinesa Kyoto,9.71
+02/05/2020,14,Berinjela,6.60
+02/05/2020,14,Quiabo Santa Cruz,6.00
+02/05/2020,14,Rábano Minowase,5.50
+02/05/2020,14,Jiló Redondo,5.00
+02/05/2020,14,Rúcula,3.04
+02/05/2020,14,Maxixe Do Norte,2.00
+02/05/2020,14,Pimenta Biquinho Amarela E Vermelha,0.41
+02/05/2020,14,Manjericão Folha Larga,0.33
+09/05/2020,15,Couve Chinesa Kyoto,10.50
+09/05/2020,15,Cenoura,8.50
+09/05/2020,15,Rábano Minowase,7.50
+09/05/2020,15,Abobrinha Italiana,7.24
+09/05/2020,15,Quiabo Santa Cruz,6.32
+09/05/2020,15,Berinjela,6.10
+09/05/2020,15,Rúcula,6.00
+09/05/2020,15,Rabanete,5.00
+09/05/2020,15,Jiló Redondo,4.70
+09/05/2020,15,Maxixe Do Norte,1.97
+16/05/2020,16,Feijão De Porco,13.70
+16/05/2020,16,Rabanete,12.60
+16/05/2020,16,Abobrinha Italiana,10.00
+16/05/2020,16,Berinjela,8.10
+16/05/2020,16,Couve Chinesa,7.30
+16/05/2020,16,Jiló Redondo,6.15
+16/05/2020,16,Quiabo Santa Cruz,5.00
+16/05/2020,16,Rúcula,4.30
+16/05/2020,16,Alho Poró,2.60
+16/05/2020,16,Hortelã Do Norte,1.90
+16/05/2020,16,Almeirão Branco,1.70
+16/05/2020,16,Maxixe Do Norte,1.56
+16/05/2020,16,Pimenta Peruana Ají Amarela,0.68
+23/05/2020,17,Abobrinha Italiana,11.50
+23/05/2020,17,Mamão Formosa,10.40
+23/05/2020,17,Rabanete,9.90
+23/05/2020,17,Mamão Papaia,9.20
+23/05/2020,17,Cenoura,7.60
+23/05/2020,17,Alface Cria Mãeã,6.70
+23/05/2020,17,Rúcula,5.90
+23/05/2020,17,Jiló Redondo,4.70
+23/05/2020,17,Berinjela,4.40
+23/05/2020,17,Quiabo Santa Cruz,4.10
+23/05/2020,17,Tomate Cereja,2.80
+23/05/2020,17,Alho Poró,2.10
+23/05/2020,17,Pimenta Biquinho Amarela E Vermelha,0.65
+23/05/2020,17,Manjericão Folha Larga,0.54
+30/05/2020,18,Couve Chinesa Kyoto,16.40
+30/05/2020,18,Batata Doce Cenoura,14.70
+30/05/2020,18,Alface Cria Mãeã,7.50
+30/05/2020,18,Rabanete,6.00
+30/05/2020,18,Berinjela,5.50
+30/05/2020,18,Pepino Aodai,4.50
+30/05/2020,18,Jiló Redondo,3.60
+30/05/2020,18,Abobrinha Italiana,3.50
+30/05/2020,18,Erva Doce Funcho,2.30
+30/05/2020,18,Rúcula,1.25
+06/06/2020,19,Mandioca,28.00
+06/06/2020,19,Batata Doce Cenoura,18.70
+06/06/2020,19,Alface Cria Mãeã,9.55
+06/06/2020,19,Cenoura,8.00
+06/06/2020,19,Pepino Aodai,7.20
+06/06/2020,19,Abobrinha Italiana,4.00
+06/06/2020,19,Berinjela,3.52
+06/06/2020,19,Tomate Cereja,3.37
+06/06/2020,19,Quiabo Sta Cruz,2.75
+06/06/2020,19,Salsa,0.80
+06/06/2020,19,Cebolinha,0.40
+06/06/2020,19,Lavanda,0.37
+13/06/2020,20,Couve Chinesa,26.90
+13/06/2020,20,Batata Doce Cenoura,16.20
+13/06/2020,20,Mandioca,15.50
+13/06/2020,20,Alface Cria Mãeã,10.60
+13/06/2020,20,Jiló Morro Redondo,8.40
+13/06/2020,20,Berinjela,7.46
+13/06/2020,20,Pepino Aodai,6.32
+13/06/2020,20,Abobrinha Italiana,4.74
+13/06/2020,20,Erva Doce Funcho,3.50
+13/06/2020,20,Salsa,1.50
+20/06/2020,21,Mamão Formosa,21.16
+20/06/2020,21,Cenoura,10.60
+20/06/2020,21,Almeirão Branco,8.00
+20/06/2020,21,Alface Cria Mãeã,7.60
+20/06/2020,21,Berinjela,6.40
+20/06/2020,21,Jiló Redondo,6.10
+20/06/2020,21,Alho Poró,5.00
+20/06/2020,21,Rabanete,4.86
+20/06/2020,21,Pepino Aodai,4.45
+20/06/2020,21,Rúcula,3.90
+20/06/2020,21,Manjericão Folha Larga,1.56
+20/06/2020,21,Pimenta Biquinho Amarela,0.80
+26/06/2020,22,Batata Doce Cenoura,23.50
+26/06/2020,22,Couve Chinesa,22.00
+26/06/2020,22,Cenoura,8.00
+26/06/2020,22,Erva Doce Funcho,7.00
+26/06/2020,22,Pepino Aodai,5.50
+26/06/2020,22,Berinjela Comprida,5.00
+26/06/2020,22,Jiló Redondo,4.00
+26/06/2020,22,Almeirão Branco,3.00
+26/06/2020,22,Tomate Cereja,2.50
+26/06/2020,22,Hortelã,0.57
+26/06/2020,22,Pimenta Ají Amarela,0.50
+26/06/2020,22,Melissa,0.19
+04/07/2020,23,Mandioca,29.80
+04/07/2020,23,Mostarda,15.50
+04/07/2020,23,Berinjela,7.20
+04/07/2020,23,Rúcula,4.50
+04/07/2020,23,Cenoura,4.20
+04/07/2020,23,Jiló Redondo,3.60
+04/07/2020,23,Folha Do Brócoli,3.30
+04/07/2020,23,Hortelã Do Norte,3.30
+04/07/2020,23,Cebolinha,1.00
+11/07/2020,24,Batata Doce Cenoura,28.74
+11/07/2020,24,Repolho,21.49
+11/07/2020,24,Mostarda,15.84
+11/07/2020,24,Berinjela,5.51
+11/07/2020,24,Rúcula,4.93
+11/07/2020,24,Pepino Aodai,4.08
+11/07/2020,24,Jiló Redondo,3.84
+11/07/2020,24,Quiabo Estrela,1.89
+11/07/2020,24,Coentro,0.70
+18/07/2020,25,Mandioca,23.28
+18/07/2020,25,Mamão Formosa,19.27
+18/07/2020,25,Mostarda,17.01
+18/07/2020,25,Couve-flor,8.40
+18/07/2020,25,Escarola,5.13
+18/07/2020,25,Rúcula,4.80
+18/07/2020,25,Tomate Cereja,4.00
+18/07/2020,25,Brócoli,1.70
+18/07/2020,25,Salsa,0.83
+18/07/2020,25,Pimenta Ají Amarela,0.28
+25/07/2020,26,Berinjela,13.50
+25/07/2020,26,Mostarda,12.27
+25/07/2020,26,Jiló Redondo,9.53
+25/07/2020,26,Erva Doce Funcho,9.00
+25/07/2020,26,Rúcula,6.50
+25/07/2020,26,Cenoura,5.20
+25/07/2020,26,Almeirão Branco,5.10
+25/07/2020,26,Alho Poró,3.00
+25/07/2020,26,Hortelã Do Norte,2.90
+25/07/2020,26,Salsa,2.85
+25/07/2020,26,Quiabo Estrela,2.85
+01/08/2020,27,Couve-flor,17.04
+01/08/2020,27,Couve Chinesa,16.09
+01/08/2020,27,Rúcula,11.42
+01/08/2020,27,Alface Crioula,5.09
+01/08/2020,27,Escarola,5.05
+01/08/2020,27,Jiló Redondo,4.00
+01/08/2020,27,Brócoli,3.02
+01/08/2020,27,Quiabo Estrela,2.95
+01/08/2020,27,Tomate Cereja,2.87
+01/08/2020,27,Tamarindo,1.77
+01/08/2020,27,Manjericão Folha Larga,0.35
+08/08/2020,28,Mandioca,21.60
+08/08/2020,28,Berinjela,16.00
+08/08/2020,28,Rúcula,12.50
+08/08/2020,28,Escarola,6.50
+08/08/2020,28,Jiló Redondo,6.29
+08/08/2020,28,Folha Do Brócoli,5.42
+08/08/2020,28,Tamarindo,3.00
+08/08/2020,28,Salsa,2.58
+08/08/2020,28,Espinafre Africano,2.30
+15/08/2020,29,Couve-flor,22.18
+15/08/2020,29,Batata Doce Cenoura,19.90
+15/08/2020,29,Rúcula,5.68
+15/08/2020,29,Tamarindo,5.54
+15/08/2020,29,Alface,5.53
+15/08/2020,29,Folha Mostarda,5.20
+15/08/2020,29,Almeirão Branco,4.15
+15/08/2020,29,Jiló Redondo,3.10
+15/08/2020,29,Quiabo Estrela,3.00
+15/08/2020,29,Salsão,2.00
+15/08/2020,29,Brócoli,1.43
+22/08/2020,30,Mandioca,23.00
+22/08/2020,30,Berinjela,14.70
+22/08/2020,30,Couve Chinesa,14.30
+22/08/2020,30,Couve-flor,11.79
+22/08/2020,30,Rúcula,6.84
+22/08/2020,30,Tomate Cereja,6.56
+22/08/2020,30,Alface,5.64
+22/08/2020,30,Tamarindo,3.74
+22/08/2020,30,Pepino Aodai,2.00
+22/08/2020,30,Maxixe Liso Gibão,1.30
+22/08/2020,30,Pimenta Ají Amarillo,1.00
+22/08/2020,30,Quiabo Estrela,0.90
+22/08/2020,30,Brócoli,0.54
+29/08/2020,31,Batata Doce Cenoura,22.85
+29/08/2020,31,Repolho,17.99
+29/08/2020,31,Escarola,10.91
+29/08/2020,31,Alface,9.41
+29/08/2020,31,Rúcula,7.90
+29/08/2020,31,Almeirão Hadiche,4.70
+29/08/2020,31,Jiló Redondo,4.20
+29/08/2020,31,Tamarindo,3.70
+29/08/2020,31,Tomate Cereja,2.80
+29/08/2020,31,Salsa,1.75
+29/08/2020,31,Cebolinha,0.87
+05/09/2020,32,Berinjela,25.90
+05/09/2020,32,Batata Doce Branca,22.67
+05/09/2020,32,Escarola,12.00
+05/09/2020,32,Almeirão Branco,8.80
+05/09/2020,32,Erva Doce Funcho,7.71
+05/09/2020,32,Alface,7.10
+05/09/2020,32,Tomate Cereja,3.47
+05/09/2020,32,Quiabo Estrela,2.20
+05/09/2020,32,Jiló Redondo,1.80
+05/09/2020,32,Sálvia,0.09
+12/09/2020,33,Mandioca,14.00
+12/09/2020,33,Almeirão Hadiche,11.67
+12/09/2020,33,Almeirão Branco,11.30
+12/09/2020,33,Cenoura,9.00
+12/09/2020,33,Alface,6.63
+12/09/2020,33,Nabo Japonês,4.50
+12/09/2020,33,Tomate Cereja,2.87
+12/09/2020,33,Salsão,2.63
+12/09/2020,33,Rabanete,2.10
+12/09/2020,33,Pimenta Ají Amarela,2.00
+12/09/2020,33,Coentro,0.70
+12/09/2020,33,Orapronóbis,0.45
+19/09/2020,34,Batata Doce Branca,21.43
+19/09/2020,34,Berinjela,21.30
+19/09/2020,34,Escarola,10.49
+19/09/2020,34,Almeirão Branco,9.51
+19/09/2020,34,Tamarindo,5.84
+19/09/2020,34,Almeirão Hadiche,5.50
+19/09/2020,34,Couve Manteiga,4.30
+19/09/2020,34,Tomate Cereja,3.37
+19/09/2020,34,Jiló Redondo,3.30
+19/09/2020,34,Quiabo Estrela,2.59
+19/09/2020,34,Salsão,2.41
+19/09/2020,34,Salsa,1.25
+19/09/2020,34,Coentro,0.55
+26/09/2020,35,Erva Doce Funcho,14.12
+26/09/2020,35,Cenoura,9.25
+26/09/2020,35,Alface,8.14
+26/09/2020,35,Almeirão Hadiche,7.64
+26/09/2020,35,Escarola,6.74
+26/09/2020,35,Beterraba,5.50
+26/09/2020,35,Almeirão Branco,5.45
+26/09/2020,35,Alho Poró,4.55
+26/09/2020,35,Jabuticaba,4.34
+26/09/2020,35,Beldroega,4.15
+26/09/2020,35,Couve Manteiga,2.40
+26/09/2020,35,Salsa,1.66
+26/09/2020,35,Agrião,1.43
+26/09/2020,35,Pimenta Biquinho Amarela,0.60
+26/09/2020,35,Coentro,0.49
+26/09/2020,35,Hortelã,0.35
+26/09/2020,35,Melissa,0.18
+03/10/2020,36,Batata Doce Branca,24.50
+03/10/2020,36,Berinjela,17.54
+03/10/2020,36,Alface Crioula,14.09
+03/10/2020,36,Almeirão Branco,9.16
+03/10/2020,36,Almeirão Hadiche,8.83
+03/10/2020,36,Quiabo Estrela,3.10
+03/10/2020,36,Jiló Redondo,2.50
+03/10/2020,36,Beldroega,2.43
+03/10/2020,36,Tomate Cereja,2.41
+03/10/2020,36,Salsa,0.94
+03/10/2020,36,Peixinho,0.85
+03/10/2020,36,Cebolinha,0.73
+03/10/2020,36,Coentro,0.35
+03/10/2020,36,Melissa,0.12
+10/10/2020,37,Batata Doce Branca,21.62
+10/10/2020,37,Alface Crioulo,15.62
+10/10/2020,37,Tamarindo,10.00
+10/10/2020,37,Pepino Aodai,9.90
+10/10/2020,37,Mamão Formosa,9.52
+10/10/2020,37,Almeirão Hadiche,6.37
+10/10/2020,37,Almeirão Branco,4.40
+10/10/2020,37,Tomate Cereja,4.17
+10/10/2020,37,Maxixe-do-norte,3.24
+10/10/2020,37,Salsão,2.10
+10/10/2020,37,Quiabo Estrela,2.04
+10/10/2020,37,Pimenta Biquinho Amarela,1.16
+10/10/2020,37,Salsa,0.90
+10/10/2020,37,Pimenta Ají Amarela,0.70
+17/10/2020,38,Milho Amarelo,25.40
+17/10/2020,38,Berinjela,20.10
+17/10/2020,38,Alface Crioulo,17.85
+17/10/2020,38,Pepino Aodai,12.13
+17/10/2020,38,Almeirão Hadiche,8.43
+17/10/2020,38,Tomate Cereja,5.00
+17/10/2020,38,Cebolinha,4.47
+17/10/2020,38,Espinafre Nova Zelândia,4.16
+17/10/2020,38,Maxixe Do Norte,3.90
+17/10/2020,38,Jiló Redondo,1.46
+17/10/2020,38,Salsa,1.13
+17/10/2020,38,Pimenta Ají Amarela,0.82
+17/10/2020,38,Pimenta Biquinho Amarela,0.48
+17/10/2020,38,Sementes De Coentro,0.24
+17/10/2020,38,Flor De Feijão Borboleta,0.13
+24/10/2020,39,Pepino Aodai,23.53
+24/10/2020,39,Batata Doce Branca,21.20
+24/10/2020,39,Milho Amarelo,20.17
+24/10/2020,39,Alface Crioulo,10.76
+24/10/2020,39,Manga Manteiguinha,10.65
+24/10/2020,39,Almeirão Hadiche,9.51
+24/10/2020,39,Almeirão Branco,4.60
+24/10/2020,39,Quiabo Estrela,3.16
+24/10/2020,39,Espinafre Africano,2.80
+24/10/2020,39,Salsão,2.60
+24/10/2020,39,Maxixe Do Norte,2.40
+24/10/2020,39,Peixinho Da Horta,0.83
+24/10/2020,39,Flor De Feijão Borboleta,0.13
+31/10/2020,40,Manga Manteiguinha,34.00
+31/10/2020,40,Pepino Aodai,30.16
+31/10/2020,40,Manga Háden,25.96
+31/10/2020,40,Berinjela,16.55
+31/10/2020,40,Alface Crioulo,15.60
+31/10/2020,40,Milho Amarelo,11.49
+31/10/2020,40,Cenoura,9.71
+31/10/2020,40,Almeirão Hadiche,6.95
+31/10/2020,40,Maxixe Do Norte,6.51
+31/10/2020,40,Tomate Cereja,3.28
+31/10/2020,40,Salsa,1.21
+31/10/2020,40,Orapronóbis,0.59
+07/11/2020,41,Manga Manteiguinha,41.26
+07/11/2020,41,Melancia,36.77
+07/11/2020,41,Manga Háden,23.41
+07/11/2020,41,Alface Crioulo,17.80
+07/11/2020,41,Cebola Roxa,14.10
+07/11/2020,41,Pepino Aodai,13.05
+07/11/2020,41,Milho Amarelo,11.57
+07/11/2020,41,Maxixe Do Norte,4.42
+07/11/2020,41,Almeirãocatalão,4.00
+07/11/2020,41,Quiabo Estrela,3.45
+07/11/2020,41,Salsa,1.12
+07/11/2020,41,Melissa,0.18
+14/11/2020,42,Manga Manteiguinha,69.46
+14/11/2020,42,Manga Háden,29.51
+14/11/2020,42,Alface Crioulo,17.36
+14/11/2020,42,Abobrinha Menina Brasileira,14.92
+14/11/2020,42,Pepino Aodai,10.68
+14/11/2020,42,Abóbora Jerimun,9.76
+14/11/2020,42,Berinjela,9.76
+14/11/2020,42,Rabanete,9.24
+14/11/2020,42,Jiló Redondo,5.20
+14/11/2020,42,Mini-moranga,4.90
+14/11/2020,42,Maxixe Do Norte,2.80
+14/11/2020,42,Tamarindo,2.22
+14/11/2020,42,Salsão,1.86
+14/11/2020,42,Sálvia,0.18
+21/11/2020,43,Manga Manteiguinha,51.52
+21/11/2020,43,Manga Háden,38.81
+21/11/2020,43,Melancia,17.02
+21/11/2020,43,Cenoura,8.85
+21/11/2020,43,Almeirão Hadiche,7.51
+21/11/2020,43,Jiló Redondo,7.39
+21/11/2020,43,Rábano Minowase,7.38
+21/11/2020,43,Alface Crioulo,6.95
+21/11/2020,43,Mamão Formosa,6.56
+21/11/2020,43,Melão Caipira,6.17
+21/11/2020,43,Rúcula,4.98
+21/11/2020,43,Quiabo Estrela,2.45
+21/11/2020,43,Salsa,1.72
+21/11/2020,43,Cebolinha,1.15
+28/11/2020,44,Manga Manteiguinha,89.50
+28/11/2020,44,Manga Háden,16.50
+28/11/2020,44,Erva Doce Funcho,11.25
+28/11/2020,44,Abobrinha Menina Brasileira,10.95
+28/11/2020,44,Almeirão Branco,9.45
+28/11/2020,44,Rábano Minowase,8.95
+28/11/2020,44,Cebola Roxa,6.98
+28/11/2020,44,Jiló Redondo,4.00
+28/11/2020,44,Abóbora Jerimun,5.53
+28/11/2020,44,Almeirão Catalão,3.63
+28/11/2020,44,Pimenta Ají Amarela,0.55
+28/11/2020,44,Melissa,0.54
+05/12/2020,45,Manga Manteiguinha,40.00
+05/12/2020,45,Berinjela,10.00
+05/12/2020,45,Nabo Japonês,9.14
+05/12/2020,45,Alface Crioula,7.40
+05/12/2020,45,Cenoura,6.40
+05/12/2020,45,Almeirão Branco,5.40
+05/12/2020,45,Cebolinha,5.36
+05/12/2020,45,Almeirão Catalão,4.42
+05/12/2020,45,Jiló Redondo,2.91
+05/12/2020,45,Salsa,1.16
+05/12/2020,45,Acerola,0.88
+05/12/2020,45,Pitanga,0.70
+05/12/2020,45,Sálvia,0.09
+12/12/2020,46,Abobrinha Menina Brasileira,29.47
+12/12/2020,46,Batata Doce Branca,25.71
+12/12/2020,46,Manga Manteiguinha,23.12
+12/12/2020,46,Abóbora Jerimun,8.28
+12/12/2020,46,Almeirão Hadiche,5.95
+12/12/2020,46,Escarola,4.18
+12/12/2020,46,Rúcula,3.56
+12/12/2020,46,Rabanete,2.60
+12/12/2020,46,Abobrinha Italiana Caserta,2.10
+12/12/2020,46,Hortelã,0.22
+12/12/2020,46,Jambu Do Pará,0.20
+19/12/2020,47,Manga Manteiguinha,19.84
+19/12/2020,47,Cenoura,15.04
+19/12/2020,47,Nabo Japonês,13.95
+19/12/2020,47,Abobrinha Menina Brasileira,10.90
+19/12/2020,47,Almeirão Hadiche,8.94
+19/12/2020,47,Almeirão Catalão,6.93
+19/12/2020,47,Berinjela,6.43
+19/12/2020,47,Abóbora Jerimun,3.45
+19/12/2020,47,Jiló Redondo,2.21
+19/12/2020,47,Salsa,1.16
+19/12/2020,47,Peixinho Da Horta,0.71
+19/12/2020,47,Pimenta Biquinho Amarela,0.46
+19/12/2020,47,Alecrim,0.05
+26/12/2020,48,Batata Doce Laranja,13.80
+26/12/2020,48,Cenoura,10.59
+26/12/2020,48,Batata Doce Branca,5.30
+26/12/2020,48,Almeirão Hadiche,4.76
+26/12/2020,48,Almeirão Catalão,4.26
+26/12/2020,48,Cebolinha,3.70
+26/12/2020,48,Alho Poró,2.90
+26/12/2020,48,Alface Crioula,2.65
+26/12/2020,48,Salsão,1.29
+05/01/2021,49,Mandioca Branca,25.67
+05/01/2021,49,Berinjela,6.25
+05/01/2021,49,Almeirão Catalão,5.80
+05/01/2021,49,Jiló Redondo,5.20
+05/01/2021,49,Cenoura,3.82
+05/01/2021,49,Alface Crioula,3.43
+05/01/2021,49,Almeirão Hadiche,2.65
+05/01/2021,49,Rabanete,2.36
+05/01/2021,49,Espinafre Africano,1.82
+05/01/2021,49,Hortelã Do Norte,1.00
+05/01/2021,49,Pimenta Ají Amarela,0.28
+05/01/2021,49,Manjericão Folha Larga,0.09
+05/01/2021,49,Alecrim,0.04
+12/01/2021,50,Abóbora Caipira,41.14
+12/01/2021,50,Mandioca Branca,12.34
+12/01/2021,50,Milho Amarelo,12.06
+12/01/2021,50,Almeirão Hadiche,5.39
+12/01/2021,50,Cenoura,4.93
+12/01/2021,50,Almeirão Roxo,2.84
+12/01/2021,50,Melissa,0.55
+12/01/2021,50,Açafrão Da Terra,0.50
+12/01/2021,50,Sálvia,0.05
+12/01/2021,50,Flor De Feijão Borboleta,0.01
+19/01/2021,51,Abóbora Caipira,25.00
+19/01/2021,51,Batata Doce Laranja,17.62
+19/01/2021,51,Jiló Redondo,5.02
+19/01/2021,51,Abóbora Menina Brasileira,3.77
+19/01/2021,51,Berinjela,3.09
+19/01/2021,51,Almeirão Hadiche,2.70
+19/01/2021,51,Abóbora Jerimun,2.08
+19/01/2021,51,Espinafre Africano,2.00
+19/01/2021,51,Rabanete,1.37
+19/01/2021,51,Nabo Japonês,1.00
+19/01/2021,51,Melissa,0.50
+19/01/2021,51,Orapronóbis,0.37
+19/01/2021,51,Manjericão Folha Larga,0.17
+19/01/2021,51,Salsa,0.17
+19/01/2021,51,Coentro,0.08
+19/01/2021,51,Hortelã,0.07
+26/01/2021,52,Mandioca Branca,20.78
+26/01/2021,52,Abóbora Caipira,9.19
+26/01/2021,52,Abóbora Mini-paulista,8.90
+26/01/2021,52,Coco Baiano,7.42
+26/01/2021,52,Couve Chinesa,4.30
+26/01/2021,52,Almeirão Hadiche,2.02
+26/01/2021,52,Quiabo Santa Cruz,1.95
+26/01/2021,52,Jiló Redondo,1.81
+26/01/2021,52,Almeirão Roxo,1.42
+26/01/2021,52,Melissa,1.00
+26/01/2021,52,Salsa,0.72
+26/01/2021,52,Beldroega,0.52
+26/01/2021,52,Caruru,0.33
+26/01/2021,52,Cebolinha,0.27
+26/01/2021,52,Manjericão Folha Larga,0.21
+26/01/2021,52,Coentro,0.18
+02/02/2021,53,Abóbora Caipira,27.73
+02/02/2021,53,Batata Doce Laranja,16.76
+02/02/2021,53,Mandioca Amarela,14.51
+02/02/2021,53,Quiabo Santa Cruz,1.78
+02/02/2021,53,Almeirão Hadiche,1.13
+02/02/2021,53,Almeirão Roxo,1.00
+02/02/2021,53,Abóbora Mini Paulista,0.81
+02/02/2021,53,Manjericão Folha Larga,0.33
+02/02/2021,53,Salsa,0.25
+02/02/2021,53,Abobrinha Italiana,0.24
+02/02/2021,53,Hortelã,0.18
+09/02/2021,54,Mandioca Branca,26.38
+09/02/2021,54,Abóbora Caipira,19.19
+09/02/2021,54,Banana Prata,5.31
+09/02/2021,54,Alface Crioula,3.00
+09/02/2021,54,Quiabo Santa Cruz,3.00
+09/02/2021,54,Rúcula,2.15
+09/02/2021,54,Abóbora Menina Brasileira,0.75
+09/02/2021,54,Abobrinha Italiana,0.63
+09/02/2021,54,Caruru Amarantos,0.50
+09/02/2021,54,Melissa,0.36
+09/02/2021,54,Manjericão Folha Larga,0.30
+09/02/2021,54,Alecrim,0.12
+09/02/2021,54,Almeirão Roxo,0.10
+09/02/2021,54,Flor De Feijão Borboleta,0.05
+16/02/2021,55,Batata Doce Laranja,24.80
+16/02/2021,55,Abóbora Caipira,17.00
+16/02/2021,55,Quiabo Santa Cruz,3.30
+16/02/2021,55,Couve Chinesa,2.35
+16/02/2021,55,Abóbora Moranga,1.68
+16/02/2021,55,Abóbora Menina Brasileira,1.63
+16/02/2021,55,Abóbora Italiana,1.27
+16/02/2021,55,Nabo Japonês,0.84
+16/02/2021,55,Salsa,0.74
+16/02/2021,55,Rabanete,0.55
+16/02/2021,55,Hortelã,0.45
+16/02/2021,55,Manjericão Folha Larga,0.26
+23/02/2021,56,Mandioca Branca,23.63
+23/02/2021,56,Abóbora Caipira,23.17
+23/02/2021,56,Quiabo Santa Cruz,4.27
+23/02/2021,56,Rabanete,3.30
+23/02/2021,56,Alface Crioula,3.08
+23/02/2021,56,Abóbora Moranga,2.75
+23/02/2021,56,Abóbora Menina Brasileira,1.80
+23/02/2021,56,Flores De Abóbora,0.54
+23/02/2021,56,Rúcula,0.48
+23/02/2021,56,Sálvia,0.19
+23/02/2021,56,Manjericão Grego,0.14
+23/02/2021,56,Hortelã,0.11
+02/03/2021,57,Pepino Aodai,16.04
+02/03/2021,57,Batata Doce Branca,15.62
+02/03/2021,57,Mandioca Branca,15.28
+02/03/2021,57,Batata Doce Laranja,8.01
+02/03/2021,57,Quiabo Sta Cruz,4.95
+02/03/2021,57,Alface Crioulo,3.11
+02/03/2021,57,Rabanete,1.61
+02/03/2021,57,Salsa,0.73
+02/03/2021,57,Urucum,0.70
+02/03/2021,57,Almeirão Roxo,0.62
+02/03/2021,57,Manjericão Grego,0.11
+02/03/2021,57,Flores De Feijão Borboleta,0.06
+02/03/2021,57,Manjerona,0.05
+09/03/2021,58,Mandioca Branca,16.58
+09/03/2021,58,Batata Doce Branca,16.00
+09/03/2021,58,Pepino Aodai,8.82
+09/03/2021,58,Batata Doce Laranja,7.00
+09/03/2021,58,Alface Elba,4.45
+09/03/2021,58,Quiabo Sta Cruz,3.57
+09/03/2021,58,Alho Poró,2.41
+09/03/2021,58,Hortelã,0.25
+09/03/2021,58,Manjericão Grego,0.20
+09/03/2021,58,Lavanda,0.07
+16/03/2021,59,Mandioca Branca,20.00
+16/03/2021,59,Batata Doce Branca,19.00
+16/03/2021,59,Alface Elba,4.46
+16/03/2021,59,Pepino Aodai,3.00
+16/03/2021,59,Quiabo Sta Cruz,2.80
+16/03/2021,59,Mostarda Crespa,2.20
+16/03/2021,59,Chicória Crespa,1.93
+16/03/2021,59,Maxixe Do Norte,1.53
+16/03/2021,59,Açafrão Da Terra,1.50
+16/03/2021,59,Batata Doce Laranja,1.09
+16/03/2021,59,Vagem Tempesta,0.80
+16/03/2021,59,Cebolinha,0.46
+16/03/2021,59,Salsa,0.35
+16/03/2021,59,Alfavacão Cravo,0.16
+23/03/2021,60,Coco Baiano,19.97
+23/03/2021,60,Mandioca Amarela,18.88
+23/03/2021,60,Chicória Crespa,5.96
+23/03/2021,60,Quiabo Sta Cruz,3.50
+23/03/2021,60,Alface Elba,1.79
+23/03/2021,60,Abóbora Menina Brasileira,1.66
+23/03/2021,60,Melissa,1.33
+23/03/2021,60,Monguba,1.26
+23/03/2021,60,Vagem Tempesta,1.16
+23/03/2021,60,Maxixe Do Norte,0.60
+23/03/2021,60,Manjericão Folha Larga,0.18
+23/03/2021,60,Almeirão Hadiche,0.18
+23/03/2021,60,Hortelã,0.15
+30/03/2021,61,Mandioca Branca,21.21
+30/03/2021,61,Batata Doce Branca,20.63
+30/03/2021,61,Chicória Crespa,7.30
+30/03/2021,61,Alface Elba,3.20
+30/03/2021,61,Quiabo Santa Cruz,2.67
+30/03/2021,61,Monguba,1.96
+30/03/2021,61,Melissa,0.81
+30/03/2021,61,Vagem Tempesta,0.45
+30/03/2021,61,Manjericão Grego,0.10
+30/03/2021,61,Lavanda,0.10
+06/04/2021,62,Batata Doce Branca,33.00
+06/04/2021,62,Chicória Crespa,10.20
+06/04/2021,62,Alface Elba,4.68
+06/04/2021,62,Rabanete,3.22
+06/04/2021,62,Quiabo Santa Cruz,1.84
+06/04/2021,62,Maxixe Do Norte,1.45
+06/04/2021,62,Monguba,1.25
+06/04/2021,62,Alho Poró,1.10
+06/04/2021,62,Quiabo Clemson,0.98
+06/04/2021,62,Melissa,0.76
+06/04/2021,62,Hortelã,0.20
+13/04/2021,63,Mandioca Branca,25.00
+13/04/2021,63,Chicória Crespa,12.00
+13/04/2021,63,Jabuticaba,5.23
+13/04/2021,63,Quiabo Clemson,4.65
+13/04/2021,63,Alface Elba,3.70
+13/04/2021,63,Mostarda Crespa,2.34
+13/04/2021,63,Rabanete,1.70
+13/04/2021,63,Quiabo Sta Cruz,1.45
+13/04/2021,63,Monguba,0.65
+13/04/2021,63,Maxixe Do Norte,0.59
+13/04/2021,63,Melissa,0.48
+13/04/2021,63,Sálvia,0.06
+13/04/2021,63,Gergelim,0.05
+13/04/2021,63,Pimenta Ají Amarela,0.03
+20/04/2021,64,Mandioca Branca,19.00
+20/04/2021,64,Quiabo Clemson,7.13
+20/04/2021,64,Chicória Crespa,4.15
+20/04/2021,64,Quiabo Sta Cruz,3.00
+20/04/2021,64,Alface Elba,2.95
+20/04/2021,64,Rabanete,2.93
+20/04/2021,64,Almeirão Roxo,2.12
+20/04/2021,64,Monguba,2.10
+20/04/2021,64,Mostarda Crespa,1.83
+20/04/2021,64,Gergelim,0.96
+20/04/2021,64,Urucum,0.80
+20/04/2021,64,Maxixe Do Norte,0.70
+20/04/2021,64,Melissa,0.62
+20/04/2021,64,Manjericão Grego,0.28
+27/04/2021,65,Mandioca Branca,24.00
+27/04/2021,65,Batata Doce Branca,14.19
+27/04/2021,65,Chicória Crespa,5.38
+27/04/2021,65,Batata Doce Laranja,3.40
+27/04/2021,65,Quiabo Clemson,3.35
+27/04/2021,65,Alface Elba,3.24
+27/04/2021,65,Monguba,1.70
+27/04/2021,65,Quiabo Santa Cruz,1.60
+27/04/2021,65,Maxixe Do Norte,0.76
+27/04/2021,65,Melissa,0.60
+27/04/2021,65,Salsa,0.30
+27/04/2021,65,Hortelã,0.19
+04/05/2021,66,Batata Doce Branca,16.45
+04/05/2021,66,Inhame,11.46
+04/05/2021,66,Chicória Crespa,5.49
+04/05/2021,66,Maracujá Azedo,4.50
+04/05/2021,66,Quiabo Clensom,3.50
+04/05/2021,66,Rabanete,3.32
+04/05/2021,66,Alface Elba,3.00
+04/05/2021,66,Quiabo Sta Cruz,1.90
+04/05/2021,66,Rúcula,1.64
+04/05/2021,66,Alho Poró,1.15
+04/05/2021,66,Melissa,0.45
+11/05/2021,67,Batata Doce Branca,26.95
+11/05/2021,67,Mandioca Amarela,17.06
+11/05/2021,67,Mamão Formosa,13.64
+11/05/2021,67,Mandioca Branca,10.47
+11/05/2021,67,Batata Doce Cenoura,8.87
+11/05/2021,67,Mamão Papaia,6.30
+11/05/2021,67,Maracujá Azedo,5.30
+11/05/2021,67,Quiabo Clensom,4.68
+11/05/2021,67,Rabanete,3.43
+11/05/2021,67,Alface Elba,3.00
+11/05/2021,67,Chicória Crespa,2.83
+11/05/2021,67,Quiabo Sta Cruz,2.67
+11/05/2021,67,Maxixe Do Norte,2.32
+11/05/2021,67,Melissa,0.51
+22/05/2021,68,Mandioca Branca,21.71
+22/05/2021,68,Batata Doce Cenoura,18.00
+22/05/2021,68,Cenoura,7.83
+22/05/2021,68,Alface Elba,6.24
+22/05/2021,68,Milho Amarelo,6.19
+22/05/2021,68,Quiabo Clensom,3.82
+22/05/2021,68,Quiabo Sta Cruz,3.72
+22/05/2021,68,Rabanete,3.33
+22/05/2021,68,Rúcula,2.46
+22/05/2021,68,Almeirão Roxo,2.32
+22/05/2021,68,Quiabo Estrela,1.90
+22/05/2021,68,Maxixe Do Norte,1.50
+22/05/2021,68,Açafrão Da Terra,1.29
+22/05/2021,68,Melissa,0.85
+22/05/2021,68,Salsa,0.45
+22/05/2021,68,Orapronóbis,0.40
+29/05/2021,69,Mandioca Branca,24.20
+29/05/2021,69,Batata Doce Branca,16.50
+29/05/2021,69,Batata Doce Cenoura,11.74
+29/05/2021,69,Milho Amarelo,7.90
+29/05/2021,69,Cenoura,7.17
+29/05/2021,69,Maracujá Azedo,5.67
+29/05/2021,69,Quiabo Estrela,5.50
+29/05/2021,69,Alface Elba,3.39
+29/05/2021,69,Rabanete,3.27
+29/05/2021,69,Mostarda Crespa,3.11
+29/05/2021,69,Quiabo Clemson,2.66
+29/05/2021,69,Almeirão Roxo,2.60
+29/05/2021,69,Quiabo Sta Cruz,2.04
+29/05/2021,69,Almeirão Hadiche,1.38
+29/05/2021,69,Manjericão Grego,0.47
+29/05/2021,69,Melissa,0.33
+29/05/2021,69,Hortelã,0.14
+05/06/2021,70,Mandioca Branca,17.30
+05/06/2021,70,Batata Doce Branca,15.57
+05/06/2021,70,Batata Doce Cenoura,12.85
+05/06/2021,70,Quiabo Estrela,12.13
+05/06/2021,70,Chicória Crespa,7.29
+05/06/2021,70,Cenoura,5.43
+05/06/2021,70,Alface Elba,5.43
+05/06/2021,70,Quiabo Clemson,3.88
+05/06/2021,70,Quiabo Sta Cruz,3.63
+05/06/2021,70,Rúcula,3.60
+05/06/2021,70,Maracujá Azedo,3.40
+05/06/2021,70,Almeirão Roxo,1.69
+05/06/2021,70,Melissa,0.42
+05/06/2021,70,Manjericão Grego,0.39
+05/06/2021,70,Coentro,0.26
+05/06/2021,70,Hortelã,0.11
+12/06/2021,71,Quiabo Estrela,19.97
+12/06/2021,71,Mandioca Branca,18.28
+12/06/2021,71,Batata Doce Branca,15.70
+12/06/2021,71,Mamão Formosa,10.11
+12/06/2021,71,Mamão Papaia,6.75
+12/06/2021,71,Cenoura,6.03
+12/06/2021,71,Alface Elba,5.94
+12/06/2021,71,Folha De Brócoli,4.82
+12/06/2021,71,Maracujá Azedo,4.60
+12/06/2021,71,Quiabo Sta Cruz,4.30
+12/06/2021,71,Quiabo Clensom,4.27
+12/06/2021,71,Escarola,3.41
+12/06/2021,71,Almeirão Roxo,1.93
+12/06/2021,71,Beldroega,1.45
+12/06/2021,71,Jiló Comprido,0.78
+12/06/2021,71,Melissa,0.40
+12/06/2021,71,Manjericão Grego,0.36
+12/06/2021,71,Hortelã,0.20
+19/06/2021,72,Mandioca Branca,22.47
+19/06/2021,72,Batata Doce Cenoura,19.45
+19/06/2021,72,Quiabo Estrela,9.87
+19/06/2021,72,Cenoura,6.50
+19/06/2021,72,Alface Elba,5.30
+19/06/2021,72,Maracujá Azedo,3.91
+19/06/2021,72,Chicória Crespa,3.60
+19/06/2021,72,Pepino Aodai,3.17
+19/06/2021,72,Tomate Cereja Amarelo,3.00
+19/06/2021,72,Quiabo Clensom,1.98
+19/06/2021,72,Quiabo Sta Cruz,1.85
+19/06/2021,72,Almeirão Roxo,1.79
+19/06/2021,72,Tomate Pera Vermelho,1.57
+19/06/2021,72,Cebolinha,0.90
+19/06/2021,72,Salsa,0.38
+19/06/2021,72,Melissa,0.35
+19/06/2021,72,Manjericão Grego,0.34
+19/06/2021,72,Orapronóbis,0.28
+26/06/2021,73,Mandioca Branca,22.47
+26/06/2021,73,Inhame,10.61
+26/06/2021,73,Quiabo Estrela,8.30
+26/06/2021,73,Cenoura,7.00
+26/06/2021,73,Alface Elba,5.96
+26/06/2021,73,Tomate Cereja Amarelo,4.19
+26/06/2021,73,Mostarda Crespa,3.62
+26/06/2021,73,Tomate Pera Vermelho,3.20
+26/06/2021,73,Quiabo Clensom,2.76
+26/06/2021,73,Quiabo Sta Cruz,2.36
+26/06/2021,73,Rúcula,1.91
+26/06/2021,73,Jiló Comprido,1.40
+26/06/2021,73,Vagem Tempesta,0.86
+26/06/2021,73,Melissa,0.47
+26/06/2021,73,Manjericão Grego,0.28
+26/06/2021,73,Hortelã,0.10
+26/06/2021,73,Sálvia,0.03
+03/07/2021,74,Batata Doce Branca,22.38
+03/07/2021,74,Batata Doce Cenoura,13.36
+03/07/2021,74,Brócoli E Folha De Brócoli,7.29
+03/07/2021,74,Alface Elba,7.23
+03/07/2021,74,Tomate Cereja Amarelo,7.16
+03/07/2021,74,Cenoura,6.35
+03/07/2021,74,Tomate Pera Vermelho,3.57
+03/07/2021,74,Almeirão Roxo,2.80
+03/07/2021,74,Quiabo Sta Cruz,1.46
+03/07/2021,74,Quiabo Clensom,1.33
+03/07/2021,74,Quiabo Estrela,1.06
+03/07/2021,74,Salsa,0.62
+03/07/2021,74,Jiló Comprido,0.48
+03/07/2021,74,Melissa,0.31
+03/07/2021,74,Tomate Cereja Vermelho,0.30
+03/07/2021,74,Hortelã,0.12
+10/07/2021,75,Mandioca Branca,19.00
+10/07/2021,75,Erva Doce Funcho,7.56
+10/07/2021,75,Alface Elba,7.49
+10/07/2021,75,Cenoura,6.50
+10/07/2021,75,Tomate Cereja Amarelo,6.35
+10/07/2021,75,Tomate Pera Vermelho,4.50
+10/07/2021,75,Chicória Crespa,3.91
+10/07/2021,75,Quiabo Clensom,1.70
+10/07/2021,75,Quiabo Sta Cruz,1.40
+10/07/2021,75,Melissa,0.70
+10/07/2021,75,Salsa,0.58
+10/07/2021,75,Hortelã,0.09
+17/07/2021,76,Batata Doce Cenoura,26.60
+17/07/2021,76,Tomate Cereja Amarelo,15.50
+17/07/2021,76,Brócoli E Folha De Brócoli,8.68
+17/07/2021,76,Alface Crioula,7.70
+17/07/2021,76,Cenoura,6.09
+17/07/2021,76,Alface Elba,5.18
+17/07/2021,76,Tomate Pera Vermelho,3.20
+17/07/2021,76,Jiló Comprido,1.06
+17/07/2021,76,Quiabo Sta Cruz,0.92
+17/07/2021,76,Salsa,0.73
+17/07/2021,76,Tomate Cereja Vermelho,0.35
+17/07/2021,76,Melissa,0.33
+17/07/2021,76,Alecrim,0.05
+24/07/2021,77,Mandioca Branca,26.44
+24/07/2021,77,Mamão Formosa,15.20
+24/07/2021,77,Tomate Cereja Amarelo,10.68
+24/07/2021,77,Alface Elba,9.12
+24/07/2021,77,Cenoura,8.34
+24/07/2021,77,Brócoli E Folha De Brócoli,7.92
+24/07/2021,77,Tomate Pera Vermelho,2.11
+24/07/2021,77,Mamão Papaia,1.20
+24/07/2021,77,Quiabo Sta Cruz,0.96
+24/07/2021,77,Salsa,0.72
+24/07/2021,77,Quiabo Clensom,0.68
+24/07/2021,77,Jiló Comprido,0.63
+24/07/2021,77,Melissa,0.35
+24/07/2021,77,Lavanda,0.05
+31/07/2021,78,Mandioca Branca,12.24
+31/07/2021,78,Tomate Cereja Amarelo,11.47
+31/07/2021,78,Brócoli E Folha De Brócoli,6.29
+31/07/2021,78,Cenoura,5.90
+31/07/2021,78,Tomate Pera Vermelho,4.24
+31/07/2021,78,Almeirão Roxo,3.75
+31/07/2021,78,Almeirão Hadiche,2.83
+31/07/2021,78,Escarola,1.45
+31/07/2021,78,Quiabo Sta Cruz,0.87
+31/07/2021,78,Salsa,0.76
+31/07/2021,78,Chicória Crespa,0.53
+31/07/2021,78,Jiló Comprido,0.43
+31/07/2021,78,Melissa,0.27
+31/07/2021,78,Peixinho Da Horta,0.18
+31/07/2021,78,Manjericão Grego,0.11
+07/08/2021,79,Batata Doce Cenoura,12.10
+07/08/2021,79,Brócoli,9.06
+07/08/2021,79,Banana Nanicão,7.47
+07/08/2021,79,Banana Prata,7.33
+07/08/2021,79,Cenoura,6.87
+07/08/2021,79,Tomate Cereja Amarelo,6.68
+07/08/2021,79,Couve Manteiga,5.55
+07/08/2021,79,Alface Crioula,5.20
+07/08/2021,79,Batata Doce Branca,5.11
+07/08/2021,79,Alface Elba,3.15
+07/08/2021,79,Tomate Pera Vermelho,2.97
+07/08/2021,79,Salsa,1.24
+07/08/2021,79,Cebolinha,0.94
+07/08/2021,79,Melissa,0.35
+07/08/2021,79,Sálvia,0.06
+14/08/2021,80,Erva Doce Funcho,9.43
+14/08/2021,80,Brócoli,7.84
+14/08/2021,80,Cenoura,7.42
+14/08/2021,80,Alface Crioula,6.70
+14/08/2021,80,Tomate Cereja Amarelo,6.30
+14/08/2021,80,Tomate Pera Vermelho,2.34
+14/08/2021,80,Quiabo Estrela,1.86
+14/08/2021,80,Couve Manteiga,1.62
+14/08/2021,80,Jiló Comprido,1.04
+14/08/2021,80,Salsa,0.92
+14/08/2021,80,Jiló Redondo,0.48
+14/08/2021,80,Quiabo Sta Cruz,0.38
+14/08/2021,80,Melissa,0.31
+14/08/2021,80,Quiabo Clensom,0.28
+14/08/2021,80,Hortelã,0.10
+21/08/2021,81,Mandioca Branca,15.51
+21/08/2021,81,Tomate Cereja Amarelo,7.81
+21/08/2021,81,Alface Crioula,7.69
+21/08/2021,81,Batata Doce Roxa,7.24
+21/08/2021,81,Cenoura,5.69
+21/08/2021,81,Couve Manteiga,5.00
+21/08/2021,81,Almeirão Roxo,5.00
+21/08/2021,81,Rúcula,5.00
+21/08/2021,81,Alface Elba,4.86
+21/08/2021,81,Tomate Pera Vermelho,4.74
+21/08/2021,81,Salsa,1.04
+21/08/2021,81,Açafrão Da Terra,0.82
+21/08/2021,81,Cebolinha,0.48
+21/08/2021,81,Melissa,0.37
+21/08/2021,81,Orapronóbis,0.21
+21/08/2021,81,Hortelã,0.10
+28/08/2021,82,Couve Flor,35.41
+28/08/2021,82,Tomate Pera Vermelho,7.69
+28/08/2021,82,Rábano Minowase,6.09
+28/08/2021,82,Tamarindo,5.83
+28/08/2021,82,Couve Manteiga,5.28
+28/08/2021,82,Alface Crioula,5.12
+28/08/2021,82,Cenoura,4.00
+28/08/2021,82,Tomate Cereja Amarelo,3.85
+28/08/2021,82,Alface Elba,3.23
+28/08/2021,82,Alho Poró,2.25
+28/08/2021,82,Jiló Comprido,1.76
+28/08/2021,82,Quiabo Sta Cruz,1.17
+28/08/2021,82,Salsa,1.00
+28/08/2021,82,Jiló Redondo,0.46
+28/08/2021,82,Melissa,0.45
+28/08/2021,82,Brócoli,0.42
+28/08/2021,82,Manjericão Grego,0.29
+28/08/2021,82,Hortelã,0.25
+04/09/2021,83,Coco Baiano,28.96
+04/09/2021,83,Alface Elba,8.02
+04/09/2021,83,Chicória Crespa,8.00
+04/09/2021,83,Tomate Pera Vermelho,6.11
+04/09/2021,83,Couve Manteiga,5.60
+04/09/2021,83,Cenoura,4.32
+04/09/2021,83,Rábano Minowase,4.16
+04/09/2021,83,Alface Crioula,4.16
+04/09/2021,83,Rúcula,3.76
+04/09/2021,83,Tomate Cereja Amarelo,2.88
+04/09/2021,83,Beldroega,2.00
+04/09/2021,83,Salsa,1.48
+04/09/2021,83,Melissa,0.61
+04/09/2021,83,Manjericão Grego,0.17
+04/09/2021,83,Lavanda,0.07
+11/09/2021,84,Tomate Pera Vermelho,10.84
+11/09/2021,84,Batata Markies,9.95
+11/09/2021,84,Batata Orchestra,7.73
+11/09/2021,84,Jiló Comprido,7.40
+11/09/2021,84,Almeirão Roxo,7.30
+11/09/2021,84,Chicória Crespa,7.03
+11/09/2021,84,Couve Manteiga,6.95
+11/09/2021,84,Rábano Minowase,5.15
+11/09/2021,84,Alface Elba,4.81
+11/09/2021,84,Tomate Cereja Amarelo,4.16
+11/09/2021,84,Rúcula,3.24
+11/09/2021,84,Tamarindo,2.70
+11/09/2021,84,Jiló Redondo,2.33
+11/09/2021,84,Beldroega,2.05
+11/09/2021,84,Salsa,1.00
+11/09/2021,84,Melissa,0.37
+11/09/2021,84,Hortelã,0.21
+18/09/2021,85,Mandioca Branca,14.95
+18/09/2021,85,Tomate Pera Vermelho,14.02
+18/09/2021,85,Chicória Crespa,7.04
+18/09/2021,85,Almeirão Catalão,5.10
+18/09/2021,85,Rábano Minowase,4.72
+18/09/2021,85,Couve Manteiga,4.60
+18/09/2021,85,Alface Crioula,3.33
+18/09/2021,85,Tomate Cereja Amarelo,2.70
+18/09/2021,85,Jiló Comprido,2.59
+18/09/2021,85,Alface Elba,2.22
+18/09/2021,85,Rúcula,2.13
+18/09/2021,85,Salsa,1.22
+18/09/2021,85,Jiló Redondo,0.82
+18/09/2021,85,Melissa,0.73
+18/09/2021,85,Hortelã,0.30
+25/09/2021,86,Batata Markies,36.21
+25/09/2021,86,Tomate Pera Vermelho,9.76
+25/09/2021,86,Tamarindo,7.08
+25/09/2021,86,Chicória Crespa,6.73
+25/09/2021,86,Almeirão Catalão,5.23
+25/09/2021,86,Couve Manteiga,4.32
+25/09/2021,86,Alface Crioula,4.26
+25/09/2021,86,Rábano Minowase,3.70
+25/09/2021,86,Rúcula,2.18
+25/09/2021,86,Tomate Cereja Amarelo,1.86
+25/09/2021,86,Jiló Comprido,1.79
+25/09/2021,86,Salsa,1.35
+25/09/2021,86,Jiló Redondo,1.04
+25/09/2021,86,Hortelã,0.47
+25/09/2021,86,Melissa,0.44
+02/10/2021,87,Batata Cupido,11.26
+02/10/2021,87,Batata Orchestra,8.86
+02/10/2021,87,Erva Doce Funcho,6.00
+02/10/2021,87,Almeirão Roxo,5.09
+02/10/2021,87,Chicória Crespa,4.75
+02/10/2021,87,Alho Poró,3.63
+02/10/2021,87,Tomate Pera Vermelho,2.99
+02/10/2021,87,Salsa,2.19
+02/10/2021,87,Alface Crioula,2.15
+02/10/2021,87,Almeirão Hadiche,2.15
+02/10/2021,87,Melissa,0.54
+02/10/2021,87,Tomate Cereja Amarelo,0.53
+02/10/2021,87,Hortelã,0.47
+09/10/2021,88,Batata Cupido,18.07
+09/10/2021,88,Batata Orchestra,16.45
+09/10/2021,88,Abobrinha Italiana,7.87
+09/10/2021,88,Chicória Crespa,4.00
+09/10/2021,88,Abóbora Menina Brasileira,3.43
+09/10/2021,88,Tamarindo,3.33
+09/10/2021,88,Almeirão Roxo,2.92
+09/10/2021,88,Couve Manteiga,2.80
+09/10/2021,88,Cebola Branca,2.66
+09/10/2021,88,Almeirão Catalão,2.55
+09/10/2021,88,Beldroega,2.24
+09/10/2021,88,Tomate Pera Vermelho,1.82
+09/10/2021,88,Salsa,1.69
+09/10/2021,88,Cebola Roxa,1.62
+09/10/2021,88,Jiló Comprido,1.40
+09/10/2021,88,Abóbora Moranga,1.04
+09/10/2021,88,Jiló Redondo,0.96
+09/10/2021,88,Tomate Cereja Vermelho,0.85
+09/10/2021,88,Melissa,0.78
+09/10/2021,88,Manjericão Grego,0.75
+09/10/2021,88,Hortelã,0.18
+16/01/2021,89,Batata Cupido,29.83
+16/01/2021,89,Manga Rosa,12.11
+16/01/2021,89,Cenoura,9.14
+16/01/2021,89,Chicória Crespa,4.14
+16/01/2021,89,Rúcula,3.38
+16/01/2021,89,Rabanete Crinsom,3.00
+16/01/2021,89,Beldroega,2.35
+16/01/2021,89,Almeirão Roxo,1.97
+16/01/2021,89,Pitanga,1.71
+16/01/2021,89,Salsa,1.46
+16/01/2021,89,Manga Manteiguinha,1.08
+16/01/2021,89,Melissa,0.79
+16/01/2021,89,Manjericão Grego,0.65
+16/01/2021,89,Hortelã,0.33
+23/10/2021,90,Batata Cupido,26.67
+23/10/2021,90,Manga Rosa,24.72
+23/10/2021,90,Manga Manteiguinha,9.92
+23/10/2021,90,Cenoura,9.26
+23/10/2021,90,Abobrinha Italiana,6.90
+23/10/2021,90,Pepino Aodai,6.75
+23/10/2021,90,Chicória Crespa,4.30
+23/10/2021,90,Abóbora Menina Brasileira,3.90
+23/10/2021,90,Abóbora Moranga,3.12
+23/10/2021,90,Caruru Amarantos,2.30
+23/10/2021,90,Jiló Comprido,2.28
+23/10/2021,90,Caju Vermelho,2.00
+23/10/2021,90,Cebolinha,1.74
+23/10/2021,90,Pitanga,1.70
+23/10/2021,90,Salsa,1.39
+23/10/2021,90,Beldroega,1.28
+23/10/2021,90,Maxixe Do Norte,0.84
+23/10/2021,90,Melissa,0.57
+23/10/2021,90,Hortelã,0.49
+30/10/2021,91,Manga Rosa,57.45
+30/10/2021,91,Batata Orchestra,28.58
+30/10/2021,91,Manga Manteiguinha,18.02
+30/10/2021,91,Jabuticaba,7.09
+30/10/2021,91,Cenoura,6.81
+30/10/2021,91,Tamarindo,5.70
+30/10/2021,91,Chicória Crespa,5.08
+30/10/2021,91,Jiló Comprido,4.37
+30/10/2021,91,Beldroega,2.13
+30/10/2021,91,Salsa,1.20
+30/10/2021,91,Almeirão Roxo,0.97
+30/10/2021,91,Melissa,0.79
+30/10/2021,91,Jiló Redondo,0.54
+30/10/2021,91,Hortelã,0.36
+06/11/2021,92,Batata Orchestra,23.00
+06/11/2021,92,Manga Rosa,18.20
+06/11/2021,92,Cenoura,6.28
+06/11/2021,92,Abóbora Caipira,6.05
+06/11/2021,92,Pepino Aodai,5.10
+06/11/2021,92,Abóbora Menina Brasileira,3.86
+06/11/2021,92,Abóbora Moranga,3.66
+06/11/2021,92,Chicória Crespa,3.26
+06/11/2021,92,Jiló Comprido,2.18
+06/11/2021,92,Cebolinha,0.98
+06/11/2021,92,Orapronóbis,0.71
+06/11/2021,92,Melissa,0.64
+06/11/2021,92,Salsa,0.59
+06/11/2021,92,Hortelã,0.24
+06/11/2021,92,Tomilho,0.03
+06/11/2021,92,Batata Orchestra,8.18
+06/11/2021,92,Manga Rosa,8.18
+06/11/2021,92,Cenoura,2.16
+06/11/2021,92,Abóbora Capiria,2.00
+06/11/2021,92,Abóbora Menina Brasileira,1.88
+06/11/2021,92,Abóbora Moranga,1.00
+06/11/2021,92,Chicória Crespa,1.00
+06/11/2021,92,Jiló Comprido,1.00
+06/11/2021,92,Cebolinha,0.40
+06/11/2021,92,Melissa,0.26
+06/11/2021,92,Salsa,0.20
+06/11/2021,92,Orapronóbis,0.20
+06/11/2021,92,Hortelã,0.07
+06/11/2021,92,Tomilho,0.01
+06/11/2021,92,Pepino Aodai,1.15
+06/11/2021,92,Cenoura,1.76
+06/11/2021,92,Tamarindo,1.48
+06/11/2021,92,Vagem Tempesta,0.99
+06/11/2021,92,Maxixe Do Norte,0.82
+06/11/2021,92,Beldroega,0.28
+06/11/2021,92,Vagem De Corda,0.17
+06/11/2021,92,Manjericão Grego,0.08
+11/11/2021,93,Batata Markies,13.44
+11/11/2021,93,Cenoura,5.00
+11/11/2021,93,Pepino Aodai,2.40
+11/11/2021,93,Mamão Papaia,1.85
+11/11/2021,93,Salsa,1.50
+11/11/2021,93,Hortelã,0.87
+11/11/2021,93,Alface Crioula,0.82
+11/11/2021,93,Vagem Tempesta,0.76
+11/11/2021,93,Rúcula,0.55
+11/11/2021,93,Manjericão Grego,0.45
+11/11/2021,93,Flor De Cosmos,0.17
+11/11/2021,93,Flor De Erva Doca Funcho,0.12
+13/11/2021,93,Manga Rosa,22.48
+13/11/2021,93,Batata Markies,18.96
+13/11/2021,93,Manga Manteiguinha,18.28
+13/11/2021,93,Abóbora Caravela,7.19
+13/11/2021,93,Abóbora Moranga,4.91
+13/11/2021,93,Abóbora Menina Brasileira,3.82
+13/11/2021,93,Vagem Tempesta,2.50
+13/11/2021,93,Alho Poró,2.27
+13/11/2021,93,Beldroega,2.13
+13/11/2021,93,Jiló Comprido,1.93
+13/11/2021,93,Jiló Redondo,1.10
+13/11/2021,93,Melissa,0.58
+13/11/2021,93,Manjericão Grego,0.42
+13/11/2021,93,Vagem De Corda,0.32
+13/11/2021,93,Hortelã,0.30
+13/11/2021,93,Alfavacão Cravo,0.25
+13/11/2021,93,Lavanda,0.14
+13/11/2021,93,Manga Rosa,10.20
+13/11/2021,93,Manga Manteiguinha,10.10
+13/11/2021,93,Batata Markies,4.50
+13/11/2021,93,Abóbora Caravela,2.60
+13/11/2021,93,Vagem Tempesta,0.45
+13/11/2021,93,Alho Poró,0.40
+13/11/2021,93,Jiló Comprido,0.35
+13/11/2021,93,Beldroega,0.30
+13/11/2021,93,Melissa,0.20
+13/11/2021,93,Hortelã,0.05
+13/11/2021,93,Alfavacão Cravo,0.04
+13/11/2021,93,Manjericão Grego,0.04
+17/11/2021,94,Batata Markies,13.24
+17/11/2021,94,Jabuticaba,4.66
+17/11/2021,94,Mamão Papaia,1.00
+17/11/2021,94,Alho Poró,1.00
+17/11/2021,94,Alface Crioula,0.70
+17/11/2021,94,Hortelã,0.30
+20/11/2021,94,Manga Rosa,22.55
+20/11/2021,94,Mandioca Branca,18.50
+20/11/2021,94,Abóbora Caravela,15.55
+20/11/2021,94,Milho Amarelo,7.79
+20/11/2021,94,Manga Manteiguinha,7.27
+20/11/2021,94,Cenoura,3.72
+20/11/2021,94,Chicória Crespa,3.29
+20/11/2021,94,Abóbora Moranga,2.70
+20/11/2021,94,Acerola,2.66
+20/11/2021,94,Beldroega,1.40
+20/11/2021,94,Vagem Tempesta,1.26
+20/11/2021,94,Jiló Comprido,0.88
+20/11/2021,94,Almeirão Roxo,0.87
+20/11/2021,94,Espinafre Africano,0.71
+20/11/2021,94,Salsa,0.65
+20/11/2021,94,Manjericão Grego,0.61
+20/11/2021,94,Maxixe Do Norte,0.55
+20/11/2021,94,Jiló Redondo,0.55
+20/11/2021,94,Melissa,0.53
+20/11/2021,94,Hortelã,0.19
+20/11/2021,94,Manga Rosa,12.00
+20/11/2021,94,Mandioca Branca,4.88
+20/11/2021,94,Manga Manteiguinha,2.92
+20/11/2021,94,Milho Amarelo,2.90
+20/11/2021,94,Abóbora Caravela,2.36
+20/11/2021,94,Chicória Crespa,0.86
+20/11/2021,94,Cenoura,0.54
+20/11/2021,94,Manjericão Grego,0.18
+20/11/2021,94,Salsa,0.18
+24/11/2021,95,Vagem Tempesta,0.39
+24/11/2021,95,Manjericão Grego,0.26
+24/11/2021,95,Hortelã,0.17
+27/11/2021,95,Manga Manteiguinha,25.60
+27/11/2021,95,Abóbora Caravela,21.29
+27/11/2021,95,Mandioca Branca,16.61
+27/11/2021,95,Milho Amarelo,9.00
+27/11/2021,95,Pepino Aodai,4.00
+27/11/2021,95,Alface Crioula,3.80
+27/11/2021,95,Alho Poró,2.00
+27/11/2021,95,Beldroega,1.91
+27/11/2021,95,Abobrinha Italiana,1.75
+27/11/2021,95,Couve Manteiga,1.00
+27/11/2021,95,Melissa,0.63
+27/11/2021,95,Manjericão Grego,0.59
+27/11/2021,95,Orapronóbis,0.44
+27/11/2021,95,Salsa,0.43
+27/11/2021,95,Flor De Cosmos,0.24
+27/11/2021,95,Lavanda,0.19
+27/11/2021,95,Hortelã,0.17
+27/11/2021,95,Flor De Feijão Borboleta,0.11
+27/11/2021,95,Abóbora Caravela,8.00
+27/11/2021,95,Mandioca Branca,5.50
+27/11/2021,95,Milho Amarelo,4.00
+27/11/2021,95,Pepino Aodai,1.72
+27/11/2021,95,Alface Crioula,0.90
+27/11/2021,95,Beldroega,0.90
+27/11/2021,95,Alho Poró,0.75
+27/11/2021,95,Manjericão Grego,0.34
+27/11/2021,95,Melissa,0.30
+27/11/2021,95,Orapronóbis,0.29
+27/11/2021,95,Salsa,0.25
+27/11/2021,95,Flor De Cosmos,0.10
+27/11/2021,95,Hortelã,0.10
+27/11/2021,95,Lavanda,0.09
+27/11/2021,95,Flor De Feijão Borboleta,0.03
+01/12/2021,96,Berinjela,1.28
+01/12/2021,96,Mamão Papaia,1.08
+01/12/2021,96,Hortelã,0.80
+01/12/2021,96,Maxixe Do Norte,0.65
+01/12/2021,96,Salsa,0.63
+01/12/2021,96,Erva Doce Funcho,0.60
+01/12/2021,96,Cosmos,0.12
+01/12/2021,96,Clitoria,0.07
+01/12/2021,96,Alecrim,0.06
+04/12/2021,96,Manga Manteiguinha,28.31
+04/12/2021,96,Melancia,28.30
+04/12/2021,96,Abóbora Caravela,17.00
+04/12/2021,96,Mandioca Branca,15.06
+04/12/2021,96,Batata Doce Branca,15.00
+04/12/2021,96,Banana Maçã,8.00
+04/12/2021,96,Chicória Crespa,6.00
+04/12/2021,96,Milho Amarelo,4.42
+04/12/2021,96,Alface Crioula,1.73
+04/12/2021,96,Alho Poró,1.20
+04/12/2021,96,Espinafre Africano,1.00
+04/12/2021,96,Melissa,0.46
+04/12/2021,96,Hortelã,0.40
+04/12/2021,96,Salsa,0.22
+04/12/2021,96,Manjericão Grego,0.10
+04/12/2021,96,Manjerona,0.03
+04/12/2021,96,Abóbora Caravela,6.00
+04/12/2021,96,Melancia,3.30
+04/12/2021,96,Batata Doce Branca,3.00
+04/12/2021,96,Abóbora Brasileirinha,2.80
+04/12/2021,96,Abóbora Caipira,2.20
+04/12/2021,96,Mandioca Branca,2.00
+04/12/2021,96,Chicória Crespa,2.00
+04/12/2021,96,Abóbora Bege Redonda,1.60
+04/12/2021,96,Milho Amarelo,1.00
+04/12/2021,96,Jiló Comprido,0.58
+04/12/2021,96,Alface Crioula,0.46
+04/12/2021,96,Espinafre Africano,0.36
+04/12/2021,96,Alho Poró,0.33
+11/12/2021,97,Abóbora Bege Redonda,20.71
+11/12/2021,97,Manga Manteiguinha,14.78
+11/12/2021,97,Batata Doce Branca,11.87
+11/12/2021,97,Maracujá Azedo,4.69
+11/12/2021,97,Chicória Crespa,3.59
+11/12/2021,97,Cenoura,2.60
+11/12/2021,97,Jiló Redondo,1.00
+11/12/2021,97,Espinafre Africano,0.65
+11/12/2021,97,Melissa,0.61
+11/12/2021,97,Jiló Comprido,0.58
+11/12/2021,97,Cebolinha Nirá,0.33
+11/12/2021,97,Hortelã,0.24
+11/12/2021,97,Orapronóbis,0.23
+11/12/2021,97,Manjericão Grego,0.15
+11/12/2021,97,Manga Manteiguinha,6.50
+11/12/2021,97,Abóbora Bege Redonda,5.50
+11/12/2021,97,Batata Doce Branca,3.30
+11/12/2021,97,Maracujá Azedo,1.60
+11/12/2021,97,Chicória Crespa,0.56
+11/12/2021,97,Jiló Comprido,0.42
+11/12/2021,97,Espinafre Africano,0.17
+11/12/2021,97,Cebolinha Nirá,0.09
+11/12/2021,97,Orapronóbis,0.07
+11/12/2021,97,Hortelã,0.04
+11/12/2021,97,Manjericão Grego,0.02
+11/12/2021,97,Mandioca Branca,16.00
+11/12/2021,97,Coco Baiano,5.91
+11/12/2021,97,Abóbora Bege Redonda,5.16
+11/12/2021,97,Melancia,3.00
+11/12/2021,97,Maxixe Liso Gibão,1.89
+11/12/2021,97,Quiabo Santa Cruz,0.60
+11/12/2021,97,Chicória Crespa,0.54
+11/12/2021,97,Vagem Tempesta,0.53
+11/12/2021,97,Alho Poró,0.50
+11/12/2021,97,Salsa,0.45
+11/12/2021,97,Espinafre Africano,0.32
+11/12/2021,97,Hortelã,0.30
+11/12/2021,97,Cosmos,0.10
+11/12/2021,97,Tomilho,0.06
+11/12/2021,97,Manjericão Grego,0.05
+11/12/2021,97,Zinnea,0.05
+11/12/2021,97,Lavanda,0.04
+11/12/2021,97,Sálvia,0.04
+11/12/2021,97,Clitoria,0.02
+11/12/2021,97,Manjerona,0.01
+16/12/2021,98,Abóbora Caravela,34.81
+16/12/2021,98,Abóbora Bege Redonda,13.98
+16/12/2021,98,Coco Baiano,8.78
+16/12/2021,98,Mini-moranga,5.15
+16/12/2021,98,Melancia,4.82
+16/12/2021,98,Mamão Papaia,1.77
+16/12/2021,98,Alho Poró,0.83
+16/12/2021,98,Pepino Aodai,0.50
+16/12/2021,98,Vagem Tempesta,0.44
+16/12/2021,98,Manjericão Grego,0.42
+16/12/2021,98,Almeirão Roxo,0.38
+16/12/2021,98,Cebolinha,0.28
+16/12/2021,98,Espinafre Africano,0.22
+16/12/2021,98,Hortelã,0.22
+16/12/2021,98,Salsa,0.18
+16/12/2021,98,Lavanda,0.13
+16/12/2021,98,Feijão De Corda,0.10
+16/12/2021,98,Alecrim,0.08
+16/12/2021,98,Zinnea,0.04
+16/12/2021,98,Cosmos,0.03
+16/12/2021,98,Clitoria,0.02
+16/12/2021,98,Flor De Erva Doce Funcho,0.01
+18/12/2021,98,Melancia,36.03
+18/12/2021,98,Manga Manteiguinha,22.46
+18/12/2021,98,Abóbora Caravela,18.35
+18/12/2021,98,Batata Doce Branca,11.99
+18/12/2021,98,Manga Háden,8.56
+18/12/2021,98,Abóbora Bege Redonda,5.43
+18/12/2021,98,Maracuja Azedo,4.75
+18/12/2021,98,Mini Moranga,3.21
+18/12/2021,98,Abóbora Caipira,2.65
+18/12/2021,98,Moranguinha,1.23
+18/12/2021,98,Alho Poró,1.02
+18/12/2021,98,Couve Manteiga,0.81
+18/12/2021,98,Jiló Comprido,0.62
+18/12/2021,98,Jiló Redondo,0.44
+18/12/2021,98,Urucum,0.30
+18/12/2021,98,Melissa,0.22
+18/12/2021,98,Espinafre Africano,0.22
+18/12/2021,98,Orapronóbis,0.18
+18/12/2021,98,Manjericão Grego,0.15
+18/12/2021,98,Hortelã,0.11
+18/12/2021,98,Alecrim,0.09
+22/12/2021,99,Batata Doce Branca,9.37
+22/12/2021,99,Mamão Papaia,1.96
+22/12/2021,99,Maxixe Do Norte,1.37
+22/12/2021,99,Jabuticaba,0.70
+22/12/2021,99,Quiabo Santa Cruz,0.65
+22/12/2021,99,Espinafre Africano,0.50
+22/12/2021,99,Almeirão Caipira,0.50
+22/12/2021,99,Alho Poró,0.46
+22/12/2021,99,Hortelã,0.30
+22/12/2021,99,Cebolinha Nirá,0.30
+22/12/2021,99,Manjericão Grego,0.20
+22/12/2021,99,Zinnea,0.10
+22/12/2021,99,Cosmos,0.07
+22/12/2021,99,Alecrim,0.05
+22/12/2021,99,Lavanda,0.05
+22/12/2021,99,Clitoria,0.04
+23/12/2021,99,Abóbora Caravela,22.82
+23/12/2021,99,Manga Manteiguinha,17.22
+23/12/2021,99,Manga Háden,12.56
+23/12/2021,99,Abóbora Bege Redonda,8.23
+23/12/2021,99,Abóbora Caipira,4.93
+23/12/2021,99,Maracujá Azedo,3.24
+23/12/2021,99,Moranguinha,3.19
+23/12/2021,99,Maxixe Do Norte,1.83
+23/12/2021,99,Alface Elba,1.00
+23/12/2021,99,Alho Poró,0.90
+23/12/2021,99,Melissa,0.76
+23/12/2021,99,Cebolinha Nirá,0.31
+23/12/2021,99,Manjericão Grego,0.30
+23/12/2021,99,Hortelã,0.26
+23/12/2021,99,Tomilho,0.13
+23/12/2021,99,Manga Manteiguinha,3.50
+23/12/2021,99,Manga Háden,2.50
+23/12/2021,99,Maracujá Azedo,1.00
+23/12/2021,99,Maxixe Do Norte,0.80
+23/12/2021,99,Alface Elba,0.50
+23/12/2021,99,Almeirão Capiria,0.50
+23/12/2021,99,Alho Poró,0.40
+23/12/2021,99,Cebolinha Nirá,0.15
+23/12/2021,99,Melissa,0.15
+23/12/2021,99,Hortelã,0.12
+23/12/2021,99,Tomilho,0.08
+23/12/2021,99,Manjericão Grego,0.07
+30/12/2021,100,Abóbora Caravela,17.03
+30/12/2021,100,Manga Manteiguinha,12.20
+30/12/2021,100,Mandioca Branca,9.00
+30/12/2021,100,Abóbora Bege Redonda,7.09
+30/12/2021,100,Banana Maçã,4.18
+30/12/2021,100,Pepino Aodai,3.50
+30/12/2021,100,Acerola,2.70
+30/12/2021,100,Maracujá Azedo,2.21
+30/12/2021,100,Almeirão Caipira,0.63
+30/12/2021,100,Melissa,0.40
+30/12/2021,100,Orapronóbis,0.24
+30/12/2021,100,Manjericão Grego,0.21
+30/12/2021,100,Hortelã,0.15
+30/12/2021,100,Tomilho,0.09
+30/12/2021,100,Batata Doce Branca,5.26
+30/12/2021,100,Batata Doce Roxa,4.00
+30/12/2021,100,Pepino Aodai,1.33
+30/12/2021,100,Maxixe Do Norte,1.33
+30/12/2021,100,Quiabo Santa Cruz,0.82
+30/12/2021,100,Alho Poró,0.67
+30/12/2021,100,Batata Doce Cenoura,0.37
+30/12/2021,100,Vagem Tempesta,0.28
+30/12/2021,100,Jabuticaba,0.20
+30/12/2021,100,Hortelã,0.19
+30/12/2021,100,Zinnea,0.10
+30/12/2021,100,Cosmos,0.05
+30/12/2021,100,Flor De Murta,0.04
+30/12/2021,100,Clitoria,0.02
+05/01/2022,101,Milho Amarelo,6.21
+05/01/2022,101,Abóbora Caravela,5.55
+05/01/2022,101,Batata Doce Branca,3.60
+05/01/2022,101,Mamão Papaia,1.58
+05/01/2022,101,Batata Doce Roxa,1.00
+05/01/2022,101,Quiabo Sta Cruz,0.87
+05/01/2022,101,Maxixe Do Norte,0.77
+05/01/2022,101,Hortelã,0.37
+05/01/2022,101,Urucum,0.36
+05/01/2022,101,Flor De Cana Do Brejo,0.20
+05/01/2022,101,Lavanda,0.09
+05/01/2022,101,Alecrim,0.09
+05/01/2022,101,Clitoria,0.04
+05/01/2022,101,Cosmos,0.03
+08/01/2022,101,Abóbora Caravela,19.10
+08/01/2022,101,Milho Amarelo,18.40
+08/01/2022,101,Batata Doce Roxa,9.91
+08/01/2022,101,Abóbora Caipira,7.84
+08/01/2022,101,Abóbora Bege Redonda,2.58
+08/01/2022,101,Batata Doce Branca,1.33
+08/01/2022,101,Alface Elba,0.90
+08/01/2022,101,Salsa,0.62
+08/01/2022,101,Melissa (lippia),0.44
+08/01/2022,101,Espinafre Africano,0.38
+08/01/2022,101,Cebolinha Nirá,0.35
+08/01/2022,101,Manjericão Grego,0.27
+08/01/2022,101,Hortelã,0.16
+08/01/2022,101,Alface Crioula,0.10
+08/01/2022,101,Tomilho,0.09
+08/01/2022,101,Lavanda,0.09
+12/01/2022,102,Mandioca Branca,10.00
+12/01/2022,102,Abóbora Caravela,9.09
+12/01/2022,102,Milho Amarelo,4.00
+12/01/2022,102,Abóbora Bege Redonda,3.72
+12/01/2022,102,Mamão Formosa,3.10
+12/01/2022,102,Maxixe Do Norte,0.65
+12/01/2022,102,Flor De Cana Do Brejo,0.25
+12/01/2022,102,Urucum,0.18
+12/01/2022,102,Espinafre Africano,0.10
+12/01/2022,102,Hortelã,0.10
+12/01/2022,102,Lavanda,0.05
+12/01/2022,102,Manjericão Grego,0.05
+12/01/2022,102,Alecrim,0.03
+12/01/2022,102,Cosmos,0.02
+15/01/2022,102,Abóbora Caravela,17.40
+15/01/2022,102,Mandioca Branca,12.74
+15/01/2022,102,Milho Amarelo,10.50
+15/01/2022,102,Almeirão Catalão,2.90
+15/01/2022,102,Abóbora Bege Redonda,2.85
+15/01/2022,102,Abóbora Caipira,1.60
+15/01/2022,102,Melissa (lippia),0.90
+15/01/2022,102,Cebolinha Nirá,0.50
+15/01/2022,102,Tomilho,0.20
+15/01/2022,102,Hortelã,0.15
+20/01/2022,103,Abóbora Caravela,5.00
+20/01/2022,103,Batata Doce Branca,4.00
+20/01/2022,103,Abóbora Bege Redonda,2.88
+20/01/2022,103,Maracujá Azedo,1.83
+20/01/2022,103,Batata Doce Roxa,1.50
+20/01/2022,103,Milho Amarelo,1.40
+20/01/2022,103,Quiabo Sta Cruz,0.75
+20/01/2022,103,Batata Doce Cenoura,0.34
+20/01/2022,103,Jiló Comprido,0.33
+20/01/2022,103,Flor De Cana Do Brejo,0.30
+20/01/2022,103,Taioba,0.20
+20/01/2022,103,Alfavacão Cravo,0.20
+20/01/2022,103,Hortelã,0.13
+20/01/2022,103,Zinnea,0.10
+20/01/2022,103,Manjericão Grego,0.08
+20/01/2022,103,Lavanda,0.04
+20/01/2022,103,Clitoria,0.03
+20/01/2022,103,Cosmos,0.02
+20/01/2022,103,Tomilho,0.01
+20/01/2022,103,Manjerona,0.01
+22/01/2022,103,Abóbora Caravela,13.20
+22/01/2022,103,Milho Amarelo,10.65
+22/01/2022,103,Batata Doce Roxa,6.10
+22/01/2022,103,Banana Maçã,5.00
+22/01/2022,103,Batata Doce Branca,4.87
+22/01/2022,103,Melissa (lippia),0.49
+22/01/2022,103,Almeirão Catalão,0.30
+22/01/2022,103,Hortelã,0.21
+22/01/2022,103,Cebolinha Nirá,0.20
+22/01/2022,103,Tomilho,0.19
+22/01/2022,103,Alecrim,0.16
+22/01/2022,103,Almeirão Roxo,0.10
+22/01/2022,103,Chicória Crespa,0.10
+28/01/2022,104,Maracujá Azedo,2.50
+28/01/2022,104,Espinafre  Africano,0.20
+28/01/2022,104,Hortelã,0.15
+29/01/2022,104,Abóbora Caravela,12.00
+29/01/2022,104,Batata Doce Branca,9.00
+29/01/2022,104,Mandioca Branca,9.00
+29/01/2022,104,Côco Baiano,4.90
+29/01/2022,104,Maracujá Azedo,3.15
+29/01/2022,104,Melissa (lippia),0.53
+29/01/2022,104,Manjericão Grego,0.50
+29/01/2022,104,Hortelã,0.23
+29/01/2022,104,Cebolinha Nirá,0.20
+29/01/2022,104,Salsa,0.16
+02/02/2022,104,Batata Doce Branca,9.50
+02/02/2022,104,Abóbora Bege Redonda,4.67
+02/02/2022,104,Mamão Formosa,1.00
+02/02/2022,104,Quiabo Sta Cruz,0.36
+02/02/2022,104,Almeirão Caipira,0.20
+02/02/2022,104,Hortelã,0.13
+02/02/2022,104,Espinafre Africano,0.10
+02/02/2022,104,Manjericão Grego,0.07
+02/02/2022,104,Zinnea,0.06
+02/02/2022,104,Lavanda,0.04
+02/02/2022,104,Cosmos,0.04
+02/02/2022,104,Clitoria,0.03
+05/02/2022,105,Batata Doce Branca,9.73
+05/02/2022,105,Abóbora Caravela,8.46
+05/02/2022,105,Banana Maçã,7.80
+05/02/2022,105,Maracujá Azedo,3.00
+05/02/2022,105,Batata Doce Roxa,1.00
+05/02/2022,105,Urucum,0.70
+05/02/2022,105,Almeirão Catalão,0.62
+05/02/2022,105,Quiabo Sta Cruz,0.59
+05/02/2022,105,Alho Poró,0.32
+05/02/2022,105,Açafrão Da Terra,0.28
+05/02/2022,105,Cebolinha Nirá,0.28
+05/02/2022,105,Melissa,0.22
+05/02/2022,105,Hortelã,0.20
+05/02/2022,105,Manjericão Grego,0.18
+05/02/2022,105,Sálvia,0.05
+09/02/2022,106,Batata Doce Branca,4.80
+09/02/2022,106,Alface Elba,0.22
+09/02/2022,106,Almeirão Catalão,0.19
+09/02/2022,106,Melissa,0.10
+09/02/2022,106,Espinafre Africano,0.10
+09/02/2022,106,Manjericão Grego,0.10
+09/02/2022,106,Hortelã,0.10
+09/02/2022,106,Alecrim,0.08
+09/02/2022,106,Lavanda,0.03
+09/02/2022,106,Cosmos,0.01
+12/02/2022,106,Mandioca Branca,15.40
+12/02/2022,106,Maracujá Azedo,7.00
+12/02/2022,106,Quiabo Santa Cruz,1.45
+12/02/2022,106,Vagem Feijão De Corda,0.82
+12/02/2022,106,Rúcula,0.60
+12/02/2022,106,Alfavacão Cravo,0.51
+12/02/2022,106,Lippia Alba (melissa),0.39
+12/02/2022,106,Peixinho Da Horta,0.25
+12/02/2022,106,Manjericão Grego,0.15
+12/02/2022,106,Alecrim,0.15
+12/02/2022,106,Lavanda,0.13
+12/02/2022,106,Cosmos,0.02
+12/02/2022,106,Clitoria,0.01
+18/02/2022,107,Mandioca Branca,9.50
+18/02/2022,107,Banana Maçã,1.47
+18/02/2022,107,Abóbora Caipira,0.87
+18/02/2022,107,Urucum,0.35
+18/02/2022,107,Alface Elba,0.31
+18/02/2022,107,Hortelã,0.15
+18/02/2022,107,Cebolinha,0.11
+18/02/2022,107,Alecrim,0.05
+18/02/2022,107,Lavanda,0.03
+18/02/2022,107,Melão De São Caetano,0.03
+18/02/2022,107,Cosmos,0.02
+19/02/2022,107,Mandioca Branca,13.00
+19/02/2022,107,Banana Maçã,5.70
+19/02/2022,107,Vagem Feijão De Corda,1.71
+19/02/2022,107,Berinjela,1.00
+19/02/2022,107,Quiabo Santa Cruz,0.77
+19/02/2022,107,Lippia Alba (melissa),0.35
+19/02/2022,107,Hortelã Do Norte,0.32
+19/02/2022,107,Cebolinha Nirá,0.28
+19/02/2022,107,Almeirão Catalão,0.26
+19/02/2022,107,Cebolinha,0.18
+19/02/2022,107,Manjericão Grego,0.13
+19/02/2022,107,Hortelã,0.12
+26/02/2022,108,Moranga,16.42
+26/02/2022,108,Mandioca Branca,8.00
+26/02/2022,108,Vagem Feijão De Corda,4.45
+26/02/2022,108,Maracujá Azedo,2.01
+26/02/2022,108,Alface Elba,1.70
+26/02/2022,108,Quiabo Santa Cruz,1.28
+26/02/2022,108,Alfavacão Cravo,0.39
+26/02/2022,108,Manjericão Grego,0.12
+26/02/2022,108,Hortelã,0.11
+02/03/2022,109,Batata Doce Branca,4.00
+02/03/2022,109,Maracujá Azedo,2.03
+02/03/2022,109,Quiabo Sta Cruz,0.76
+02/03/2022,109,Vagem Feijão de Corda,0.65
+02/03/2022,109,Rúcula,0.34
+02/03/2022,109,Hortelã Pimenta,0.23
+02/03/2022,109,Alface Elba,0.23
+02/03/2022,109,Manjericão Grego,0.14
+02/03/2022,109,Urucum,0.09
+02/03/2022,109,Hortelã,0.07
+02/03/2022,109,Alecrim,0.04
+02/03/2022,109,Lavanda,0.01
+02/03/2022,109,Melão de São Caetano,0.01
+02/03/2022,109,Cosmos,0.01
+02/03/2022,109,Jambú do Pará,0.01
+02/03/2022,109,Clitoria,0.01
+05/03/2022,109,Mandioca Branca,12.00
+05/03/2022,109,Banana Maçã,8.90
+05/03/2022,109,Maracujá Azedo,4.46
+05/03/2022,109,Vagem Feijão de Corda,3.75
+05/03/2022,109,Alface Elba,2.66
+05/03/2022,109,Cebolinha,0.30
+05/03/2022,109,Açafrão da Terra,0.20
+05/03/2022,109,Hortelã,0.16
+05/03/2022,109,Manjericão Grego,0.11
+12/03/2022,110,Mandioca Branca,13.44
+12/03/2022,110,Vagem Feijão de Corda,3.80
+12/03/2022,110,Maracujá Azedo,3.00
+12/03/2022,110,Alface Elba,2.24
+12/03/2022,110,Chicória Crespa,2.00
+12/03/2022,110,Jiló Redondo,1.62
+12/03/2022,110,Rúcula,1.42
+12/03/2022,110,Quiabo Sta Cruz,0.97
+12/03/2022,110,Alfavacão Cravo,0.26
+12/03/2022,110,Orapronóbis,0.21
+12/03/2022,110,Urucum,0.21
+12/03/2022,110,Manjericão Grego,0.10
+16/03/2022,111,Mamão Formosa,1.40
+16/03/2022,111,Abóbora Italiana,1.30
+16/03/2022,111,Quiabo Sta Cruz,1.23
+16/03/2022,111,Maracujá Azedo,1.00
+16/03/2022,111,Abóbora Caipira,0.94
+16/03/2022,111,Vagem Feijão de Corda,0.53
+16/03/2022,111,Rúcula,0.16
+16/03/2022,111,Alface Elba,0.15
+16/03/2022,111,Chicória Crespa,0.14
+16/03/2022,111,Hortelã Pimenta,0.09
+16/03/2022,111,Urucum,0.08
+16/03/2022,111,Hortelã,0.07
+16/03/2022,111,Coentro,0.07
+16/03/2022,111,Manjericão Grego,0.06
+16/03/2022,111,Zinnea,0.02
+16/03/2022,111,Melão de São Caetano,0.02
+16/03/2022,111,Jambú do Pará,0.02
+16/03/2022,111,Alecrim,0.02
+16/03/2022,111,Lavanda,0.02
+16/03/2022,111,Cosmos,0.02
+16/03/2022,111,Clitoria,0.00
+19/03/2022,111,Mandioca Branca,12.87
+19/03/2022,111,Banana Maçã,6.62
+19/03/2022,111,Vagem Feijão de Corda,4.02
+19/03/2022,111,Maracujá Azedo,3.65
+19/03/2022,111,Chicória Crespa,2.32
+19/03/2022,111,Jiló Redondo,0.82
+19/03/2022,111,Manjericão Grego,0.31
+19/03/2022,111,Cebolinha Nirá,0.26
+19/03/2022,111,Cosmos,0.09
+19/03/2022,111,Lavanda,0.07
+23/03/2022,112,Mamão Formosa,1.41
+23/03/2022,112,Maracujá Azedo,1.36
+23/03/2022,112,Quiabo Santa Cruz,0.49
+23/03/2022,112,Banana Maçã,0.43
+23/03/2022,112,Cana do Brejo,0.30
+23/03/2022,112,Rúcula,0.13
+23/03/2022,112,Urucum,0.13
+23/03/2022,112,Pimenta Cambucci,0.11
+23/03/2022,112,Hortelã,0.08
+23/03/2022,112,Zinnea,0.07
+23/03/2022,112,Manjericão Folha Larga,0.05
+23/03/2022,112,Alecrim,0.03
+23/03/2022,112,Melão de São Caetano,0.03
+23/03/2022,112,Cosmos,0.03
+23/03/2022,112,Jambú do Pará,0.01
+26/03/2022,112,Mamão Formosa,17.40
+26/03/2022,112,Mandioca Branca,7.61
+26/03/2022,112,Vagem Feijão de Corda,6.80
+26/03/2022,112,Batata Doce Cenoura,6.50
+26/03/2022,112,Maracujá Azedo,3.43
+26/03/2022,112,Beldroega,3.00
+26/03/2022,112,Batata Doce Branca,1.50
+26/03/2022,112,Chicória Crespa,1.44
+26/03/2022,112,Jiló Redondo,0.58
+26/03/2022,112,Cosmos,0.26
+26/03/2022,112,Manjericão Grego,0.20
+26/03/2022,112,Lippia Alba,0.18
+26/03/2022,112,Alfavacão Cravo,0.18
+26/03/2022,112,Orapronóbis,0.15
+26/03/2022,113,Mamão Formosa,22.46
+26/03/2022,113,Mandioca Branca,9.70
+26/03/2022,113,Vagem Feijão de Corda,4.40
+26/03/2022,113,Maracujá Azedo,2.10
+26/03/2022,113,Chicória Crespa,1.60
+26/03/2022,113,Hortelã,0.62
+26/03/2022,113,Lippia Alba,0.56
+26/03/2022,113,Orapronóbis,0.32
+26/03/2022,113,Cosmos,0.18
+26/03/2022,113,Manjericão Grego,0.15
+26/03/2022,113,Cebolinha Nirá,0.15
+26/03/2022,113,Sálvia,0.06
+30/03/2022,113,Mandioca Branca,5.00
+30/03/2022,113,Vagem de Corda,0.50
+30/03/2022,113,Cana do Brejo,0.25
+30/03/2022,113,Urucum,0.10
+30/03/2022,113,Pimenta Habanero,0.10
+30/03/2022,113,Hortelã,0.09
+30/03/2022,113,Manjericão Grego,0.05
+30/03/2022,113,Alecrim,0.02
+30/03/2022,113,Manjjericão Folha LArga,0.02
+30/03/2022,113,Lavanda,0.01
+30/03/2022,113,Jambú do Pará,0.01
+06/04/2022,114,Batata Doce Cenoura,4.20
+06/04/2022,114,Mamão Formosa,3.66
+06/04/2022,114,Hortelã do Norte,0.41
+06/04/2022,114,Vagem de Corda,0.40
+06/04/2022,114,Cana do Brejo,0.39
+06/04/2022,114,Rúcula,0.25
+06/04/2022,114,Hortelã,0.20
+06/04/2022,114,Urucum,0.15
+06/04/2022,114,Manjericão Grego,0.04
+06/04/2022,114,Lavanda,0.03
+06/04/2022,114,Alecrim,0.03
+06/04/2022,114,Cosmos,0.02
+06/04/2022,114,Melão de São Caetano,0.01
+09/04/2022,114,Mandioca Branca,12.75
+09/04/2022,114,Banana Maçã,3.90
+09/04/2022,114,Maracujá Azedo,3.29
+09/04/2022,114,Vagem Feijão de Corda,3.32
+09/04/2022,114,Rúcula,2.90
+09/04/2022,114,Chicória Crespa,1.73
+09/04/2022,114,Hortelã do Norte,0.67
+09/04/2022,114,Quiabo Sta Cruz,0.50
+09/04/2022,114,Quiabo Clensom,0.50
+09/04/2022,114,Lippia Alba,0.28
+09/04/2022,114,Cosmos,0.28
+09/04/2022,114,Manjericão Grego,0.18
+13/04/2022,115,Mandioca Branca,5.82
+13/04/2022,115,Mamão Formosa,1.64
+13/04/2022,115,Maracujá Azedo,1.26
+13/04/2022,115,Rúcula,0.91
+13/04/2022,115,Taioba,0.56
+13/04/2022,115,Vagem de Corda,0.45
+13/04/2022,115,Jiló Redondo,0.45
+13/04/2022,115,Cana do Brejo,0.39
+13/04/2022,115,Hortelã do Norte,0.35
+13/04/2022,115,Hortela,0.20
+13/04/2022,115,Alface Elba,0.16
+13/04/2022,115,Urucum,0.13
+13/04/2022,115,Alecrim,0.04
+13/04/2022,115,Cosmos,0.04
+13/04/2022,115,Melão de São Caetano,0.03
+13/04/2022,115,Lavanda,0.03
+13/04/2022,115,Manjericão Grego,0.02
+13/04/2022,115,Clitórea,0.02
+13/04/2022,115,Zinnea,0.02
+13/04/2022,115,Jambú do Pará,0.01
+16/04/2022,115,Mamão Formosa,14.55
+16/04/2022,115,Mandioca Branca,10.52
+16/04/2022,115,Rabanete,3.30
+16/04/2022,115,Rúcula,2.69
+16/04/2022,115,Vagem de Corda,2.62
+16/04/2022,115,Quiabo Clensom,1.43
+16/04/2022,115,Pimenta Habanero,0.69
+16/04/2022,115,Lippia Alba,0.45
+16/04/2022,115,Manjericão Grego,0.08
+20/04/2022,116,Mandioca Branca,6.80
+20/04/2022,116,Mamão Formosa,1.39
+20/04/2022,116,Pepino Aodai,0.92
+20/04/2022,116,Taioba,0.56
+20/04/2022,116,Banana Prata,0.49
+20/04/2022,116,Cana do Brejo,0.39
+20/04/2022,116,Rúcula,0.38
+20/04/2022,116,Alface Elba,0.31
+20/04/2022,116,Vagem de Corda,0.31
+20/04/2022,116,Hortelã do Norte,0.22
+20/04/2022,116,Urucum,0.14
+20/04/2022,116,Hortelã,0.10
+20/04/2022,116,Alfavacão Cravo,0.10
+20/04/2022,116,Lippia Alba,0.10
+20/04/2022,116,Manjericão Grego,0.09
+20/04/2022,116,Zinnea,0.05
+20/04/2022,116,Lavanda,0.03
+20/04/2022,116,Alecrim,0.03
+20/04/2022,116,Melão de São Caetano,0.02
+20/04/2022,116,Cosmos,0.01
+20/04/2022,116,Clitorea,0.01
+20/04/2022,116,Jambú do Pará,0.01
+23/04/2022,116,Mamão Formosa,17.00
+23/04/2022,116,Batata Doce Branca,12.00
+23/04/2022,116,Banana Prata,4.60
+23/04/2022,116,Maracujá Azedo,2.64
+23/04/2022,116,Rabanete,2.63
+23/04/2022,116,Alface Elba,2.58
+23/04/2022,116,Rúcula,2.36
+23/04/2022,116,Vage de Corda,1.88
+23/04/2022,116,Quiabo Clensom,1.02
+23/04/2022,116,Lippia Alba,0.31
+23/04/2022,116,Cosmos,0.11
+27/04/2022,117,Mandioca Branca,3.99
+27/04/2022,117,Rúcula,1.22
+27/04/2022,117,Rabanete,1.00
+27/04/2022,117,Mamão Formosa,0.98
+27/04/2022,117,Cana do Brejo,0.72
+27/04/2022,117,Taioba,0.61
+27/04/2022,117,Alface Elba,0.50
+27/04/2022,117,Vagem de Corda,0.32
+27/04/2022,117,Hortelã do Norte,0.18
+27/04/2022,117,Açafrão da Terra,0.14
+27/04/2022,117,Urucum,0.13
+27/04/2022,117,Lippia Alba,0.09
+27/04/2022,117,Alfavacão Cravo,0.07
+27/04/2022,117,Alecrim,0.03
+27/04/2022,117,Melão de São Caetano,0.02
+27/04/2022,117,Cosmos,0.02
+27/04/2022,117,Zinnea,0.02
+27/04/2022,117,Lavanda,0.01
+27/04/2022,117,Sálvia,0.01
+27/04/2022,117,Jambú do Pará,0.01
+27/04/2022,117,Clitórea,0.01
+30/04/2022,117,Batata Doce Branca,10.27
+30/04/2022,117,Alface Elba,4.55
+30/04/2022,117,Rabanete,3.13
+30/04/2022,117,Rúcula,3.00
+30/04/2022,117,Quiabo Clensom,1.39
+30/04/2022,117,Lippia Alba,0.31
+30/04/2022,117,Quiabo Sta Cruz,0.27
+30/04/2022,117,Manjericão Grego,0.10
+30/04/2022,117,Lavanda,0.27
+04/05/2022,118,Batata Doce Branca,4.49
+04/05/2022,118,Mamão Formosa,2.70
+04/05/2022,118,Pepino Aodai,0.85
+04/05/2022,118,Vagem de Corda,0.68
+04/05/2022,118,Rúcula,0.63
+04/05/2022,118,Alface Elba,0.62
+04/05/2022,118,Taioba,0.42
+04/05/2022,118,Maracujá Azedo,0.38
+04/05/2022,118,Urucum,0.29
+04/05/2022,118,Hortelã Pimenta,0.20
+04/05/2022,118,Lippia Alba,0.20
+04/05/2022,118,Pimenta Habanero,0.17
+04/05/2022,118,Alfavacão Cravo,0.07
+04/05/2022,118,Alecrim,0.04
+04/05/2022,118,Lavanda,0.02
+04/05/2022,118,Cosmos,0.01
+04/05/2022,118,Clitoria,0.01
+04/05/2022,118,Jambú do Pará,0.01
+04/05/2022,118,Sálvia,0.01
+07/05/2022,118,Batata Doce Branca,11.21
+07/05/2022,118,Alface Elba,3.32
+07/05/2022,118,Rúcula,3.00
+07/05/2022,118,Rabanete,2.50
+07/05/2022,118,Quiabo Clensom,0.95
+07/05/2022,118,Melissa,0.37
+07/05/2022,118,Hortelã,0.35
+07/05/2022,118,Quiabo Sta Cruz,0.33
+07/05/2022,118,Cosmos,0.13
+07/05/2022,118,Clitoria,0.05
+11/05/2022,119,Batata Doce Branca,3.21
+11/05/2022,119,Batata Doce Cenoura,2.26
+11/05/2022,119,Mamão Formosa,1.99
+11/05/2022,119,Alface Elba,0.93
+11/05/2022,119,Quiabo Clensom,0.79
+11/05/2022,119,Quiabo Sta Cruz,0.63
+11/05/2022,119,Maracujá Azedo,0.61
+11/05/2022,119,Vagem de Corda,0.40
+11/05/2022,119,Rúcula,0.37
+11/05/2022,119,Taioba,0.36
+11/05/2022,119,Urucum,0.23
+11/05/2022,119,Hortelã Pimenta,0.22
+11/05/2022,119,Pimenta Italiana,0.14
+11/05/2022,119,Lippia Alba,0.10
+11/05/2022,119,Cosmos,0.05
+11/05/2022,119,Jambú do Pará,0.05
+11/05/2022,119,Hortelã,0.05
+11/05/2022,119,Alfavacão Cravo,0.04
+11/05/2022,119,Pimenta Habanero,0.02
+11/05/2022,119,Lavanda,0.02
+11/05/2022,119,Clitoria,0.02
+14/05/2022,119,Mamão Formosa,17.90
+14/05/2022,119,Mandioca Branca,14.81
+14/05/2022,119,Alface Elba,4.63
+14/05/2022,119,Banana Prata,3.03
+14/05/2022,119,Vagem de Corda,1.32
+14/05/2022,119,Rúcula,1.25
+14/05/2022,119,Açafrão da Terra,0.53
+18/05/2022,120,Mandioca Branca,7.40
+18/05/2022,120,Batata Doce Branca,3.14
+18/05/2022,120,Mamão Formosa,2.40
+18/05/2022,120,Batata Doce Cenoura,1.50
+18/05/2022,120,Maracujá Azedo,0.70
+18/05/2022,120,Alface Elba,0.59
+18/05/2022,120,Quiabo Sta Cruz,0.39
+18/05/2022,120,Rúcula,0.33
+18/05/2022,120,Urucum,0.24
+18/05/2022,120,Taioba,0.17
+18/05/2022,120,Lippia Alba,0.10
+18/05/2022,120,Alfavacão Cravo,0.10
+18/05/2022,120,Flor de Jambo do Norte,0.02
+18/05/2022,120,Pimenta Habanero,0.02
+18/05/2022,120,Lavanda,0.02
+18/05/2022,120,Alecrim,0.01
+18/05/2022,120,Cosmos,0.01
+18/05/2022,120,Jambú do Pará,0.01
+21/05/2022,120,Batata Doce Branca,15.00
+21/05/2022,120,Mamão Formosa,14.90
+21/05/2022,120,Mandioca Branca,9.00
+21/05/2022,120,Alface Elba,4.60
+21/05/2022,120,Banana Nanica,3.96
+21/05/2022,120,Chicória Crespa,0.93
+21/05/2022,120,Hortelã Pimenta,0.54
+21/05/2022,120,Lippia Alba,0.29
+21/05/2022,120,Cebolinha Nirá,0.14
+25/05/2022,121,Mandioca Branca,10.00
+28/05/2022,121,Mamão Formosa,19.74
+28/05/2022,121,Batata Doce Branca,10.80
+28/05/2022,121,Mandioca Branca,8.60
+28/05/2022,121,Alface Elba,2.37
+28/05/2022,121,Maracujá Azedo,1.99
+28/05/2022,121,Chicória Crespa,1.50
+28/05/2022,121,Rabanete,1.46
+28/05/2022,121,Quiabo Clensom,0.81
+28/05/2022,121,Maxixe do Norte,0.62
+28/05/2022,121,Quiabo Sta Cruz,0.61
+28/05/2022,121,Cebolinha Nirá,0.09
+01/06/2022,122,Mandioca Branca,10.00
+04/06/2022,122,Mandioca Branca,10.00
+04/06/2022,122,Batata Doce Branca,10.00
+04/06/2022,122,Alface Elba,4.00
+04/06/2022,122,Limão Cravo,4.00
+04/06/2022,122,Maracujá Azedo,3.00
+08/06/2022,123,Mandioca Branca,10.00
+11/06/2022,123,Batata Doce Branca,16.40
+11/06/2022,123,Batata Doce Cenoura,7.83
+11/06/2022,123,Maracujá Azedo,4.48
+11/06/2022,123,Maxixe do Norte,4.05
+11/06/2022,123,Alface Elba,3.55
+11/06/2022,123,Banana Prata,3.10
+11/06/2022,123,Banana Nanica,2.54
+11/06/2022,123,Quiabo Clensom,2.51
+11/06/2022,123,Couve,2.05
+11/06/2022,123,Quiabo Estrela,1.64
+11/06/2022,123,Quiabo Sta Cruz,1.31
+11/06/2022,123,Lippia Alba,0.40
+11/06/2022,123,Sálvia,0.05
+15/06/2022,124,Mandioca Branca,10.00
+18/06/2022,124,Mamão Formosa,20.06
+18/06/2022,124,Banana Maçã,11.60
+18/06/2022,124,Maracujá Azedo,10.33
+18/06/2022,124,Batata Doce Branca,7.95
+18/06/2022,124,Batata Doce Cenoura,7.00
+18/06/2022,124,Batata Doce Roxa,6.17
+18/06/2022,124,Alface Elba,4.40
+18/06/2022,124,Maxixe do Norte,3.53
+18/06/2022,124,Tomate Pera Vermelho,3.20
+18/06/2022,124,Lippia Alba,0.48
+22/06/2022,125,Mandioca Branca,10.00
+25/06/2022,125,Batata Doce Branca,14.85
+25/06/2022,125,Limão Cravo,14.14
+25/06/2022,125,Maracujá Azedo,7.62
+25/06/2022,125,Rabanete,6.50
+25/06/2022,125,Alface Elba,5.84
+25/06/2022,125,Batata Doce Cenoura,4.95
+25/06/2022,125,Tomate Pera Vermelho,2.07
+25/06/2022,125,Salsa,0.50
+25/06/2022,125,Batata Doce Roxa,0.44
+02/07/2022,126,Batata Doce Branca,17.43
+02/07/2022,126,Banana Nanica,8.69
+02/07/2022,126,Alface Elba,6.39
+02/07/2022,126,Maracujá Azedo,4.83
+02/07/2022,126,Tomate Pera Vermelho,3.35
+02/07/2022,126,Rabanete,2.58
+02/07/2022,126,Couve,2.54
+02/07/2022,126,Maxixe do Norte,1.94
+02/07/2022,126,Quiabo Clensom,1.88
+02/07/2022,126,Salsa,0.46
+02/07/2022,126,Lippia Alba,0.27
+09/07/2022,127,Batata Doce Cenoura,15.90
+09/07/2022,127,Alface Elba,11.17
+09/07/2022,127,Tomate Pera Vermelho,7.87
+09/07/2022,127,Banana Nanica,5.09
+09/07/2022,127,Batata Doce branca,3.90
+09/07/2022,127,Maracuja Azedo,3.00
+09/07/2022,127,Quiabo Clensom,2.00
+09/07/2022,127,Couve,1.84
+09/07/2022,127,Rúcula,1.83
+09/07/2022,127,Maxixe do Norte,1.67
+09/07/2022,127,Cebolinha,1.00
+09/07/2022,127,Salsa,0.30
+09/07/2022,127,Lippia Alba,0.22
+16/07/2022,128,Côco Baiano,17.00
+16/07/2022,128,Alface Crespa,17.00
+16/07/2022,128,Mandioca Branca,15.00
+16/07/2022,128,Tomate Pera Vermelho,7.00
+16/07/2022,128,Quiabo Clensom,3.00
+16/07/2022,128,Couve,2.00
+16/07/2022,128,Salsa,0.40
+16/07/2022,128,Lippia Alba,0.30
+16/07/2022,128,Hortelã,0.10
+23/07/2022,129,Alface Crioula,17.00
+23/07/2022,129,Batata Doce Cenoura,15.00
+23/07/2022,129,Tomate Pera Vermelho,8.07
+23/07/2022,129,Cebolinha,2.32
+23/07/2022,129,Couve,1.66
+23/07/2022,129,Gergelim,0.80
+23/07/2022,129,Salsão,0.50
+23/07/2022,129,Hortelã,0.30
+23/07/2022,129,Lippia Alba,0.30
+30/07/2022,130,Alface Crespa,14.70
+30/07/2022,130,Mandioca Branca,12.70
+30/07/2022,130,Tomate Pera Vermelho,10.74
+30/07/2022,130,Batata Markies,9.22
+30/07/2022,130,Banana Prata,6.00
+30/07/2022,130,Quiabo Clensom,2.39
+30/07/2022,130,Couve,1.47
+30/07/2022,130,Lippia Alba,0.40
+30/07/2022,130,Lavanda,0.05
+06/08/2022,131,Alface Elba,11.90
+06/08/2022,131,Alface Crespa,10.68
+06/08/2022,131,Tomate Pera Vermelho,9.95
+06/08/2022,131,Batata Markies,6.99
+06/08/2022,131,Rabanete,5.10
+06/08/2022,131,Batata Doce Roxa,4.00
+06/08/2022,131,Batata Doce Cenoura,2.90
+06/08/2022,131,Rúcula,2.75
+06/08/2022,131,Lippia Alba,0.37
+13/08/2022,132,Alface Elba,16.46
+13/08/2022,132,Batata Markies,14.80
+13/08/2022,132,Tomate Pera Vermelho,10.16
+13/08/2022,132,Rabanete,5.90
+13/08/2022,132,Tamarindo,2.90
+13/08/2022,132,Couve,1.92
+13/08/2022,132,Quiabo Clensom,1.63
+13/08/2022,132,Salsão,1.42
+13/08/2022,132,Lippia Alba,0.20
+13/08/2022,132,Hortelã,0.20
+20/08/2022,133,Tomate Pera Vermelho,20.41
+20/08/2022,133,Alface Crespa,15.60
+20/08/2022,133,Batata Markies,10.24
+20/08/2022,133,Rabanete,5.50
+20/08/2022,133,Tomate Pera Amarelo,5.20
+20/08/2022,133,Salsa,1.45
+20/08/2022,133,Coentro,1.10
+20/08/2022,133,Cebolinha,0.77
+20/08/2022,133,Lippia Alba,0.49
+27/08/2022,134,Alface Elba,12.90
+27/08/2022,134,Batata Markies,9.84
+27/08/2022,134,Tomate Pera Vermelho,8.70
+27/08/2022,134,Rabanete,4.62
+27/08/2022,134,Tamarindo,3.00
+27/08/2022,134,Rúcula,2.30
+27/08/2022,134,Couve,2.30
+27/08/2022,134,Tomate Pera Amarelo,1.87
+27/08/2022,134,Salsa,1.00
+27/08/2022,134,Lippia Alba,0.70
+27/08/2022,134,Lavanda,0.50
+27/08/2022,134,Hortelã,0.50
+03/09/2022,135,Alface Elba,10.63
+03/09/2022,135,Batata Doce Branca,9.69
+03/09/2022,135,Banana Nanicão,9.00
+03/09/2022,135,Tomate Pera Vermelho,6.00
+03/09/2022,135,Rabanete,4.57
+03/09/2022,135,Couve Manteiga,4.45
+03/09/2022,135,Banana Prata,2.93
+03/09/2022,135,Rúcula,1.73
+03/09/2022,135,Salsa,0.30
+03/09/2022,135,Lippia Alba,0.55
+03/09/2022,135,Lavanda,0.05
+10/09/2022,136,Mandioca Branca,13.85
+10/09/2022,136,Repolho,12.04
+10/09/2022,136,Batata Doce Branca,8.32
+10/09/2022,136,Alface Elba,7.76
+10/09/2022,136,Rabanete,5.00
+10/09/2022,136,Tomate Pera Vermelho,4.00
+10/09/2022,136,Almeirão Roxo,2.86
+10/09/2022,136,Cebola Roxa,1.53
+10/09/2022,136,Tomate Pera Amarelo,1.00
+10/09/2022,136,Salsa,0.54
+10/09/2022,136,Coentro,0.50
+10/09/2022,136,Lippia Alba,0.37
+10/09/2022,136,Lavanda,0.05
+17/09/2022,137,Batata Orchestra,13.16
+17/09/2022,137,Mandioca Branca,12.04
+17/09/2022,137,Alface Elba,11.05
+17/09/2022,137,Rabanete,4.80
+17/09/2022,137,Tomate Pera VErmelho,4.10
+17/09/2022,137,Alface Roxo,1.33
+17/09/2022,137,Almeirão Roxo,1.25
+17/09/2022,137,Tomate Pera Amarelo,0.62
+17/09/2022,137,Salsa,0.55
+17/09/2022,137,Coentro,0.40
+24/09/2022,138,Abóbora Bege Redonda,16.98
+24/09/2022,138,Mandioca Branca,12.26
+24/09/2022,138,Mini Moranga,12.13
+24/09/2022,138,Batata Orchestra,9.02
+24/09/2022,138,Repolho,8.72
+24/09/2022,138,Alface Crespa,7.57
+24/09/2022,138,Banana Nanicão,7.20
+24/09/2022,138,Tomate Pera Vermelho,5.50
+24/09/2022,138,Alface Elba,4.80
+24/09/2022,138,Banana Maçã,3.02
+24/09/2022,138,Salsa,0.80
+24/09/2022,138,Tomate Pera Amarelo,0.52
+24/09/2022,138,Lavanda,0.10
+03/12/2022,148,Manga Tommy,15.65
+03/12/2022,148,Manga Háden,14.69
+03/12/2022,148,Mandioca Branca,8.15
+03/12/2022,148,Manga Manteiguinha,7.38
+03/12/2022,148,Manga Palmer,6.60
+03/12/2022,148,Abóbora Bege Redonda,6.44
+03/12/2022,148,Mini-Moranga,5.90
+03/12/2022,148,Rabanete,1.62
+03/12/2022,148,Couve Manteiga,1.44
+03/12/2022,148,Almeirão Roxo,1.31
+03/12/2022,148,Capim Cidreira,0.46
+03/12/2022,148,Hortelã,0.32
+03/12/2022,148,Pimenta Habanero,0.28
+03/12/2022,148,Cebolinha Nirá,0.21
+03/12/2022,148,Pimenta Dedo de Moça,0.08
+03/12/2022,148,Lavanda,0.07
+10/12/2022,149,Manga Tommy,11.73
+10/12/2022,149,Abóbora Bege Redonda,11.09
+10/12/2022,149,Mandioca Branca,9.01
+10/12/2022,149,Mini-MOranga,7.13
+10/12/2022,149,Manga Manteiguinha,6.93
+10/12/2022,149,Manga Palmer,6.47
+10/12/2022,149,Capim Cidreira,0.71
+10/12/2022,149,Alface Elba,0.67
+10/12/2022,149,Hortelã do Norte,0.63
+10/12/2022,149,Almeirão Roxo,0.56
+10/12/2022,149,Lippia Alba,0.43
+10/12/2022,149,Hortelã,0.29
+10/12/2022,149,Salsão,0.22
+10/12/2022,149,Pimenta Dedo de Moça,0.14
+10/12/2022,149,Cebolinha Nirá,0.12
+10/12/2022,149,Manjericão Roxo,0.07
+10/12/2022,149,Lavanda,0.05
+17/12/2022,150,Manga Manteiguinha,9.38
+17/12/2022,150,Côco Baiano,8.69
+17/12/2022,150,Mandioca Branca,8.18
+17/12/2022,150,Mini-Moranga,7.08
+17/12/2022,150,Manga Palmer,6.42
+17/12/2022,150,Abóbora Bege Redonda,5.39
+17/12/2022,150,Batata Doce Branca,5.35
+17/12/2022,150,Manga Tommy,4.09
+17/12/2022,150,Mamão Formosa,1.59
+17/12/2022,150,Cenoura,0.91
+17/12/2022,150,Almeirão Roxo,0.65
+17/12/2022,150,Couve Manteiga,0.57
+17/12/2022,150,Hortelã do Norte,0.42
+17/12/2022,150,Capim Cidreira,0.40
+17/12/2022,150,Cebolinha,0.27
+17/12/2022,150,Hortelã,0.24
+17/12/2022,150,Salsa,0.22
+17/12/2022,150,Pimenta Dedo de Moça,0.12
+17/12/2022,150,Lavanda,0.03
+23/12/2022,151,Manga Manteiguinha,11.40
+23/12/2022,151,Mandioca Branca,6.78
+23/12/2022,151,Batata Doce Branca,6.13
+23/12/2022,151,Batata Orchestra,5.13
+23/12/2022,151,Mini-Moranga,3.76
+23/12/2022,151,Jabuticaba,2.20
+23/12/2022,151,Pitanga,1.31
+23/12/2022,151,Couve Manteiga,0.99
+23/12/2022,151,Lippia Alba,0.67
+23/12/2022,151,Alface Mimosa,0.56
+23/12/2022,151,Cebolinha,0.50
+23/12/2022,151,Orapronóbis,0.38
+23/12/2022,151,Hortelã,0.36
+23/12/2022,151,Lavanda,0.07
+23/12/2022,151,Semente de Erva Doce Funcho,0.09
+29/12/2022,152,Mandioca Branca,10.11
+29/12/2022,152,Manga Manteiguinha,7.90
+29/12/2022,152,Abóbora Bege Redonda,6.64
+29/12/2022,152,Batata Doce Branca,6.08
+29/12/2022,152,Côco Baiano,4.61
+29/12/2022,152,Batata Cupido,2.88
+29/12/2022,152,Almeirão Caipira,2.17
+29/12/2022,152,Couve Manteiga,1.00
+29/12/2022,152,Pitanga,0.81
+29/12/2022,152,Hortelã Pimenta,0.58
+29/12/2022,152,Cebolinha,0.48
+29/12/2022,152,Orapronóbis,0.43
+29/12/2022,152,Pimenta Dedo de Moça,0.26
+29/12/2022,152,Hortelã,0.23
+29/12/2022,152,Lavanda,0.08
+29/12/2022,152,Alecrim,0.04
+06/01/2023,153,Mandioca Branca,8.00
+06/01/2023,153,Batata Doce Branca,7.08
+06/01/2023,153,Abóbora Bege Redonda,5.57
+06/01/2023,153,Avocado,3.27
+06/01/2023,153,Almeirão Roxo,1.01
+06/01/2023,153,Couve Manteiga,0.89
+06/01/2023,153,Lippia Alba,0.62
+06/01/2023,153,Orapronóbis,0.55
+06/01/2023,153,Batata Doce Roxa,0.35
+06/01/2023,153,Cebolinha,0.34
+06/01/2023,153,Semente de Erva Doce Funcho,0.24
+06/01/2023,153,Hortelã,0.22
+06/01/2023,153,Pimenta Dedo de Moça,0.16
+06/01/2023,153,Lavanda,0.10
+06/01/2023,153,Batata Doce Cenoura,0.10
+06/01/2023,153,Salsa,0.07
+06/01/2023,153,Cebolinha Nirá,0.06
+13/01/2023,154,Banana Prata,8.84
+13/01/2023,154,Mandioca Branca,8.45
+13/01/2023,154,Batata Doce Branca,5.59
+13/01/2023,154,Abóbora Bege Redonda,6.86
+13/01/2023,154,Avocado,3.17
+13/01/2023,154,Mini Moranga,0.81
+13/01/2023,154,Lippia Alba,0.68
+13/01/2023,154,Hortelã Pimenta,0.50
+13/01/2023,154,Orapronóbis,0.50
+13/01/2023,154,Capim Cidreira,0.30
+13/01/2023,154,Hortelã,0.25
+13/01/2023,154,Alho Poró,0.25
+13/01/2023,154,Cebolinha,0.22
+13/01/2023,154,Salsa,0.09
+13/01/2023,154,Pimenta Dedo de Moça,0.09
+13/01/2023,154,Manjericão Roxo,0.07
+13/01/2023,154,Lavanda,0.06
+13/01/2023,154,Erva Doce Funcho sementes,0.03
+20/01/2023,155,Mandioca Branca,12.00
+20/01/2023,155,Abóbora Bege Redonda,7.55
+20/01/2023,155,Batata Doce Branca,5.72
+20/01/2023,155,Banana Prata,4.95
+20/01/2023,155,Coco descascado,4.34
+20/01/2023,155,Avocado,3.88
+20/01/2023,155,Hortelã Pimenta,0.72
+20/01/2023,155,Couve Manteiga,0.65
+20/01/2023,155,Açafrão da Terra,0.46
+20/01/2023,155,Lippia Alba,0.45
+20/01/2023,155,Capim Cidreira,0.38
+20/01/2023,155,Hortelã,0.18
+20/01/2023,155,Lavanda,0.15
+20/01/2023,155,Manjericão Roxo,0.10
+27/01/2023,156,Mandioca Branca,8.15
+27/01/2023,156,Avocado,6.45
+27/01/2023,156,Coco descascado,4.38
+27/01/2023,156,Batata Doce Cenoura,3.25
+27/01/2023,156,Ovos Caipira,1.50
+27/01/2023,156,Batata Doce Branca,0.95
+27/01/2023,156,Lippia Alba,0.41
+27/01/2023,156,Açafrão da Terra,0.36
+27/01/2023,156,Hortelã,0.15
+27/01/2023,156,Manjericão Roxo,0.09
+03/02/2023,157,Banana Prata,8.30
+03/02/2023,157,Mandioca Branca,6.89
+03/02/2023,157,Milho Amarelo,6.25
+03/02/2023,157,Coco descascado,3.70
+03/02/2023,157,Avocado,3.61
+03/02/2023,157,Batata Doce Cenoura,3.14
+03/02/2023,157,Couve Manteiga,0.90
+03/02/2023,157,Alface Elba,0.62
+03/02/2023,157,Capim Cidreira,0.50
+03/02/2023,157,Hortelã Pimenta,0.43
+03/02/2023,157,Lavanda,0.07
+10/02/2023,158,Mandioca Branca,8.14
+10/02/2023,158,Milho Amarelo,5.94
+10/02/2023,158,Avocado,4.03
+10/02/2023,158,Banana Maçã,2.70
+10/02/2023,158,Ovos Caipira,1.50
+10/02/2023,158,Tomate Cereja Vermelho,0.89
+10/02/2023,158,Hortelã Pimenta,0.70
+10/02/2023,158,Capim Cidreira,0.51
+10/02/2023,158,Orapronóbis,0.50
+10/02/2023,158,Vagem de Corda,0.18
+10/02/2023,158,Pimenta Habanero,0.15
+10/02/2023,158,Hortelã,0.10
+10/02/2023,158,Pimenta Dedo de Moça,0.10
+10/02/2023,158,Lavanda,0.08
+10/02/2023,158,Alecrim,0.03
+17/02/2023,159,Mandioca Branca,8.85
+17/02/2023,159,Milho Amarelo,8.50
+17/02/2023,159,Avocado,4.04
+17/02/2023,159,Batata Doce Branca,3.10
+17/02/2023,159,Banana Maçã,2.72
+17/02/2023,159,Orapronóbis,0.88
+17/02/2023,159,Urucum,0.82
+17/02/2023,159,Batata Doce Cenoura,0.53
+17/02/2023,159,Hortelã,0.46
+17/02/2023,159,Couve Manteiga,0.45
+17/02/2023,159,Lippia Alba,0.44
+17/02/2023,159,Manjericão Basílico,0.12
+17/02/2023,159,Manjericão Roxo,0.09
+17/02/2023,159,Lavanda,0.09
+24/02/2023,160,Banana Prata,7.24
+24/02/2023,160,Mandioca Branca,7.19
+24/02/2023,160,Avocado,4.50
+24/02/2023,160,Coco descascado,3.04
+24/02/2023,160,Alface Americana,1.12
+24/02/2023,160,Hortelã Pimenta,0.67
+24/02/2023,160,Orapronóbis,0.59
+24/02/2023,160,Lippia Alba,0.37
+24/02/2023,160,Pimenta Dedo de Moça,0.13
+24/02/2023,160,Manjericão Basílico,0.11
+24/02/2023,160,Jambú do Pará,0.02
+03/03/2023,161,Mandioca Branca,7.91
+03/03/2023,161,Limão Cravo,4.66
+03/03/2023,161,Avocado,2.64
+03/03/2023,161,Banana Maçã,2.03
+03/03/2023,161,Cará Cascudo,1.19
+03/03/2023,161,Lippia Alba,0.67
+03/03/2023,161,Hortelã do Norte,0.60
+03/03/2023,161,Orapronóbis,0.50
+03/03/2023,161,Couve Manteiga,0.41
+03/03/2023,161,Capim Cidreira,0.37
+03/03/2023,161,Açafrão da Terra,0.17
+03/03/2023,161,Alecrim,0.03
+10/03/2023,162,Mandioca Branca,9.47
+10/03/2023,162,Limão Cravo,6.30
+10/03/2023,162,Abacate,3.76
+10/03/2023,162,Coco descascado,2.45
+10/03/2023,162,Urucum,0.81
+10/03/2023,162,Açafrão da Terra,0.58
+10/03/2023,162,Lippia Alba,0.58
+10/03/2023,162,Orapronóbis,0.55
+10/03/2023,162,Hortelã do Norte,0.56
+10/03/2023,162,Vagem de Corda,0.42
+10/03/2023,162,Capim Cidreira,0.35
+10/03/2023,162,Manjericão Basílico,0.08
+17/03/2023,163,Banana Prata,7.98
+17/03/2023,163,Mandioca Branca,6.37
+17/03/2023,163,Limão Cravo,6.12
+17/03/2023,163,Coco descascado,5.00
+17/03/2023,163,Abacate,4.35
+17/03/2023,163,Batata Doce Branca,1.83
+17/03/2023,163,Hortelã Pimenta,0.74
+17/03/2023,163,Orapronóbis,0.55
+17/03/2023,163,Rúcula,0.55
+17/03/2023,163,Lippia Alba,0.44
+24/03/2023,164,Abóbora Caravela,13.68
+24/03/2023,164,Banana Prata,8.50
+24/03/2023,164,Mandioca Branca,6.51
+24/03/2023,164,Limão Cravo,4.68
+24/03/2023,164,Chuchu,3.82
+24/03/2023,164,Cará Cascudo,1.02
+24/03/2023,164,Hortelã Pimenta,0.90
+24/03/2023,164,Lippia Alba,0.47
+24/03/2023,164,Vagem de Corda,0.40
+24/03/2023,164,Manjericão Basílico,0.31
+24/03/2023,164,Alecrim,0.01
+31/03/2023,165,Abóbora Caravela,15.76
+31/03/2023,165,Mandioca Branca,6.72
+31/03/2023,165,Coco Verde,5.02
+31/03/2023,165,Limão Cravo,3.82
+31/03/2023,165,Abobrinha Italiana,1.92
+31/03/2023,165,Hortelã Pimenta,0.68
+31/03/2023,165,Tomate Cereja Vermelho,0.62
+31/03/2023,165,Vagem de Corda,0.51
+31/03/2023,165,Capim Cidreira,0.49
+31/03/2023,165,Alecrim,0.02
+06/04/2023,166,Mandioca Branca,9.44
+06/04/2023,166,Limão Cravo,6.09
+06/04/2023,166,Coco descascado,3.82
+06/04/2023,166,Araçá,0.86
+06/04/2023,166,Açafrão da Terra,0.79
+06/04/2023,166,Orapronóbis,0.54
+06/04/2023,166,Urucum,0.53
+06/04/2023,166,Lippia Alba,0.53
+06/04/2023,166,Capim Cidreira,0.25
+06/04/2023,166,Vagem de Corda,0.18
+06/04/2023,166,Lavanda,0.03
+06/04/2023,166,Alecrim,0.03
+14/04/2023,167,Abóbora Caravela,15.59
+14/04/2023,167,MAndioca Branca,9.00
+14/04/2023,167,Limão Cravo,5.61
+14/04/2023,167,Coco descascado,4.70
+14/04/2023,167,Araçá,2.00
+14/04/2023,167,Lippia Alba,0.52
+14/04/2023,167,Orapronóbis,0.47
+14/04/2023,167,Capim Cidreira,0.42
+14/04/2023,167,Hortelã Pimenta,0.37
+14/04/2023,167,Tomate Cereja Vermelho,0.28
+14/04/2023,167,Alecrim,0.01
+20/04/2023,168,Mandioca Branca,7.90
+20/04/2023,168,Banana Prata,5.68
+20/04/2023,168,Coco descascado,3.25
+20/04/2023,168,Abóbora Moranga,2.83
+20/04/2023,168,Milho Amarelo,2.66
+20/04/2023,168,Araçá,1.46
+20/04/2023,168,Maracujá Azedo,0.96
+20/04/2023,168,Abobrinha Italiana,0.73
+20/04/2023,168,Hortelã Pimenta,0.70
+20/04/2023,168,Lippia Alba,0.43
+20/04/2023,168,Almeirão Roxo,0.36
+20/04/2023,168,Capim Cidreira,0.30
+20/04/2023,168,Vagem de Corda,0.25
+20/04/2023,168,Alecrim,0.02
+28/04/2023,169,Mandioca Branca,8.00
+28/04/2023,169,Banana Prata,5.57
+28/04/2023,169,Maracujá Azedo,3.41
+28/04/2023,169,Limão Galego,2.43
+28/04/2023,169,Hortelã do Norte,0.66
+28/04/2023,169,Rúcula,0.51
+28/04/2023,169,Tomate Cereja Vermelho,0.50
+28/04/2023,169,Vagem de Corda,0.45
+28/04/2023,169,Lippia Alba,0.43
+28/04/2023,169,Açafrão da Terra,0.40
+05/05/2023,170,Banana Prata,11.38
+05/05/2023,170,Mandioca Branca,6.95
+05/05/2023,170,Abóbora Caravela,5.68
+05/05/2023,170,Maracujá Azedo,1.44
+05/05/2023,170,Rabanete,0.83
+05/05/2023,170,Hortelã Pimenta,0.70
+05/05/2023,170,Orapronóbis,0.48
+05/05/2023,170,Vagem de Corda,0.37
+05/05/2023,170,Rúcula,0.28
+05/05/2023,170,Lippia Alba,0.27
+05/05/2023,170,Açafrão da Terra,0.24
+05/05/2023,170,Capim Cidreira,0.15
+05/05/2023,170,Lavanda,0.03
+12/05/2023,171,Abóbora Caravela,9.27
+12/05/2023,171,Banana Prata,7.57
+12/05/2023,171,Mandioca Branca,6.36
+12/05/2023,171,Maracujá Azedo,1.41
+12/05/2023,171,Rabanete,0.57
+12/05/2023,171,Vagem de Corda,0.50
+12/05/2023,171,Tomate Cereja Vermelho,0.45
+12/05/2023,171,Hortelã do Norte,0.45
+12/05/2023,171,Lippia Alba,0.42
+12/05/2023,171,Rúcula,0.38
+12/05/2023,171,Capim Cidreira,0.14
+12/05/2023,171,Lavanda,0.02
+12/05/2023,171,Alecrim,0.01
+19/05/2023,172,Mandioca Branca,8.47
+19/05/2023,172,Banana Prata,6.13
+19/05/2023,172,Batata Doce BRanca,4.68
+19/05/2023,172,Abóbora Caravela,4.27
+19/05/2023,172,BAnana Maçã,3.30
+19/05/2023,172,Maracujá Azedo,2.33
+19/05/2023,172,Vagem de Corda,0.54
+19/05/2023,172,Hortelã Pimenta,0.52
+19/05/2023,172,Orapronóbis,0.50
+19/05/2023,172,Almeirão Catalão,0.50
+19/05/2023,172,Lippia Alba,0.36
+19/05/2023,172,Alecrim,0.01
+19/05/2023,172,Lavanda,0.01
+25/05/2023,173,Abóbora Caravela,9.49
+25/05/2023,173,Mandioca Branca,8.00
+25/05/2023,173,Banana Maçã,4.82
+25/05/2023,173,Batata Doce Branca,2.40
+25/05/2023,173,Pepino Aodai,1.00
+25/05/2023,173,Maracujá Azedo,0.96
+25/05/2023,173,Hortelã Pimenta,0.67
+25/05/2023,173,Vagem de Corda,0.41
+25/05/2023,173,Lippia Albaa,0.41
+25/05/2023,173,Alecrim,0.01
+02/06/2023,174,Abóbora Caravela,11.22
+02/06/2023,174,Mandioca Branca,9.44
+02/06/2023,174,Pepino Aodai,3.68
+02/06/2023,174,Banana Maçã,2.76
+02/06/2023,174,Maracujá Azedo,2.36
+02/06/2023,174,Açafrão da Terra,1.65
+02/06/2023,174,Alface Americana,1.60
+02/06/2023,174,Hortelã do Norte,1.09
+02/06/2023,174,Lippia Alba,0.65
+02/06/2023,174,Almeirão Catalão,0.59
+02/06/2023,174,Rabanete,0.48
+02/06/2023,174,Rúcula,0.43
+02/06/2023,174,MIni Moranga,0.42
+02/06/2023,174,Tomate Cereja Vermelho,0.37
+02/06/2023,174,Vagem de Corda,0.28
+02/06/2023,174,Orapronóbis,0.26
+02/06/2023,174,Cebolinha NIrá,0.08
+02/06/2023,174,LAvanda,0.03
+02/06/2023,174,Alecrim,0.02
+09/06/2023,175,Mandioca Branca,10.25
+09/06/2023,175,Limão Cravo,6.87
+09/06/2023,175,Pepino Aodai,5.75
+09/06/2023,175,Abóbora CAravela,5.48
+09/06/2023,175,Batata Doce Branca,4.36
+09/06/2023,175,Alface Americana,1.38
+09/06/2023,175,Almeirão Roxo,0.59
+09/06/2023,175,Hortelã PImenta,0.58
+09/06/2023,175,Couve Manteiga,0.49
+09/06/2023,175,Lippia Alba,0.37
+09/06/2023,175,Bucha Seca,0.07
+16/06/2023,176,Abóbora Moranga,12.41
+16/06/2023,176,Mandioca Branca,6.92
+16/06/2023,176,Pepino Aodai,5.93
+16/06/2023,176,Limão CRavo,5.31
+16/06/2023,176,Batata Doce Roxa,3.14
+16/06/2023,176,Hortelã Pimenta,1.30
+16/06/2023,176,Couve Manteiga,0.93
+16/06/2023,176,Almeirão Catalão,0.84
+16/06/2023,176,Lippia Alba,0.63
+23/06/2023,177,Abóbora Caravela,7.25
+23/06/2023,177,Mandioca Branca,6.64
+23/06/2023,177,BAtata Doce Branca,5.68
+23/06/2023,177,Coração de Bananeira,5.21
+23/06/2023,177,Banana Maçã,5.17
+23/06/2023,177,Limão Galego,4.07
+23/06/2023,177,Pepino Aodai,2.97
+23/06/2023,177,Maracujá Azedo,2.84
+23/06/2023,177,Hortelã PImenta,0.80
+23/06/2023,177,Jambuaçu do Pará,0.60
+23/06/2023,177,Lippia Alba,0.26
+30/06/2023,178,Banana Prata,10.80
+30/06/2023,178,Batata Doce Branca,5.17
+30/06/2023,178,Mandioca Branca,4.98
+30/06/2023,178,Abóbora Moranga,4.40
+30/06/2023,178,Pepino Aodai,1.68
+30/06/2023,178,Abóbora CAravela,1.26
+30/06/2023,178,Hortelã Pimenta,0.81
+30/06/2023,178,Açafrão da Terra,0.63
+30/06/2023,178,BAtata Doce Cenoura,0.46
+30/06/2023,178,Lippia Alba,0.45
+30/06/2023,178,Jambuaçu do Pará,0.43
+30/06/2023,178,Orapronóbis,0.42
+30/06/2023,178,Couve Manteiga,0.40
+30/06/2023,178,Alecrim,0.01
+07/07/2023,179,Batata Doce Branca,6.78
+07/07/2023,179,Abóbora Caravela,6.23
+07/07/2023,179,Limão Galego,2.40
+07/07/2023,179,Lippia Alba,0.74
+07/07/2023,179,Orapronóbis,0.68
+07/07/2023,179,Hortelã Pimenta,0.62
+07/07/2023,179,Brócolis Ramoso,0.51
+07/07/2023,179,Almeirão Caipira,0.47
+07/07/2023,179,Pimenta Biquinho Vermelha,0.33
+07/07/2023,179,Almeirão Roxo,0.24
+07/07/2023,179,Almeirão Catalão,0.16
+07/07/2023,179,Lavanda,0.04
+07/07/2023,179,Alecrim,0.01
+14/07/2023,180,Batata Doce Branca,6.31
+14/07/2023,180,Limão Cravo,4.70
+14/07/2023,180,Banana Prata,4.49
+14/07/2023,180,Abóbora Japonesa Casca Lisa,4.25
+14/07/2023,180,Rúcula,0.86
+14/07/2023,180,Hortelã Pimenta,0.57
+14/07/2023,180,Batata Doce Cenoura,0.53
+14/07/2023,180,Couve Manteiga,0.34
+14/07/2023,180,Brócolis,0.31
+14/07/2023,180,Lippia Alba,0.17
+14/07/2023,180,Lavanda,0.04
+14/07/2023,180,Alecrim,0.01
+21/07/2023,181,Coco Verde com Casca,9.92
+21/07/2023,181,Mandioca Branca,7.38
+21/07/2023,181,Limão Cravo,5.01
+21/07/2023,181,Banana Maçã,4.34
+21/07/2023,181,Batata Doce BRanca,4.02
+21/07/2023,181,Hortelã PImenta,0.77
+21/07/2023,181,Almeirão Catalão,0.61
+21/07/2023,181,Brócolis,0.46
+21/07/2023,181,Lippia Alba,0.46
+21/07/2023,181,Alecrim,0.01
+28/07/2023,182,Mandioca Branca,6.12
+28/07/2023,182,Limão CRavo,5.83
+28/07/2023,182,MAmão Formosa,5.46
+28/07/2023,182,Abóbora Caravela,4.94
+28/07/2023,182,Jabuticaba,2.20
+28/07/2023,182,Alface Elba,1.10
+28/07/2023,182,BRócoli,1.04
+28/07/2023,182,HOrtelã PImenta,0.49
+04/08/2023,183,Limão Cravo,6.34
+04/08/2023,183,Abóbora Japonesa Casca Lisa,4.40
+04/08/2023,183,Batata Doce BRanca,4.00
+04/08/2023,183,Ovos Caipiras,2.30
+04/08/2023,183,Couve Manteiga,1.40
+04/08/2023,183,Cenoura,1.30
+04/08/2023,183,Brócolis,1.24
+04/08/2023,183,Coentro,0.70
+04/08/2023,183,Hortelã Pimenta,0.53
+04/08/2023,183,Lippia Alba,0.35
+04/08/2023,183,Lavanda,0.02
+11/08/2023,184,Batata Doce Cenoura,5.23
+11/08/2023,184,Limão Cravo,2.63
+11/08/2023,184,Banana Maçã,2.32
+11/08/2023,184,Maracujá Azedo,1.88
+11/08/2023,184,Rabanete,1.20
+11/08/2023,184,Brócolis,1.14
+11/08/2023,184,Cenoura,1.09
+11/08/2023,184,Tomate Cereja Vermelho,0.98
+11/08/2023,184,Hortelã Pimenta,0.68
+11/08/2023,184,Lippia Alba,0.47
+11/08/2023,184,Coentro,0.37
+11/08/2023,184,Almeirão Roxo,0.30
+11/08/2023,184,Tomate Cereja Amarelo,0.13
+11/08/2023,184,Tomate Pera VErmelho,0.12
+11/08/2023,184,Alecrim,0.01
+11/08/2023,184,Lavanda,0.01
+18/08/2023,185,Limão Cravo,7.30
+18/08/2023,185,Batata Doce Branca,6.00
+18/08/2023,185,Banana Maçã,3.01
+18/08/2023,185,Cenoura,1.93
+18/08/2023,185,Banana Prata,1.44
+18/08/2023,185,Tomate Cereja Vermelho,1.31
+18/08/2023,185,Alface Elba,0.90
+18/08/2023,185,Brócolis,0.69
+18/08/2023,185,Capim Cidreira,0.54
+18/08/2023,185,Hortelã PImenta,0.47
+18/08/2023,185,Coentro,0.26
+18/08/2023,185,Alface Americana,0.20
+18/08/2023,185,Lavanda,0.05
+18/08/2023,185,Alecrim,0.01
+25/08/2023,186,Coco Verde Baiano (água),7.00
+25/08/2023,186,Limão Cravo,6.00
+25/08/2023,186,Batata Doce Cenoura,5.20
+25/08/2023,186,Tomate Cereja Vermelho,2.49
+25/08/2023,186,Couve Chinesa,1.20
+25/08/2023,186,Cenoura,1.17
+25/08/2023,186,Couve Manteiga,0.85
+25/08/2023,186,Alface Elba,0.82
+25/08/2023,186,Almeirão Catalão,0.78
+25/08/2023,186,Hortelã Pimenta,0.55
+25/08/2023,186,Lippia Alba,0.44
+25/08/2023,186,Coentro,0.36
+25/08/2023,186,Lavanda,0.04
+25/08/2023,186,Alecrim,0.01
+01/09/2023,187,Limão Cravo,6.40
+01/09/2023,187,Mandioca BRanca,5.10
+01/09/2023,187,Coração de Bananeira,4.50
+01/09/2023,187,Tomate Cereja Vermelho,3.00
+01/09/2023,187,Brócolis,1.87
+01/09/2023,187,Cenoura,1.69
+01/09/2023,187,Alface Elba,1.00
+01/09/2023,187,Almeirão Roxo,0.71
+01/09/2023,187,Lippia Alba,0.46
+01/09/2023,187,Coentro,0.40
+01/09/2023,187,Hortelã Pimenta,0.29
+01/09/2023,187,Lavanda,0.03
+01/09/2023,187,Alecrim,0.01
+08/09/2023,188,Tomate Cereja Vermelho,3.75
+08/09/2023,188,Limão Cravo,2.88
+08/09/2023,188,Batata Doce Cenoura,2.28
+08/09/2023,188,Batata Doce Branca,2.18
+08/09/2023,188,Alface Americano,1.68
+08/09/2023,188,Cenoura,1.56
+08/09/2023,188,Uvaia,1.53
+08/09/2023,188,Brócolis,1.15
+08/09/2023,188,Alface Elba,0.79
+08/09/2023,188,Almeirão Catalão,0.71
+08/09/2023,188,Capim Cidreira,0.57
+08/09/2023,188,Lippia Alba,0.49
+08/09/2023,188,Hortelã do Norte,0.38
+08/09/2023,188,Alecrim,0.00
+15/09/2023,189,Batata Doce Branca,6.30
+15/09/2023,189,Tomate Cereja Vermelho,5.13
+15/09/2023,189,Uvaia,2.90
+15/09/2023,189,Alface Elba,1.90
+15/09/2023,189,Cenoura,1.00
+15/09/2023,189,Almeirão Catalão,0.88
+15/09/2023,189,Lippia Alba,0.70
+15/09/2023,189,Brócolis,0.70
+15/09/2023,189,Hortelã do Norte,0.38
+15/09/2023,189,Salsa,0.21
+15/09/2023,189,Alecrim,0.01
+22/09/2023,190,Banana Prata,18.00
+22/09/2023,190,Abóbora Caipira,8.72
+22/09/2023,190,Tomate Cereja Vermelho,5.20
+22/09/2023,190,Brócolis,0.75
+22/09/2023,190,Lippia Alba,0.65
+22/09/2023,190,Capim Cidreira,0.50
+22/09/2023,190,Orapronóbis,0.15
+22/09/2023,190,Hortelã,0.14
+22/09/2023,190,Alecrim,0.01
+28/09/2023,191,Banana Prata,8.88
+28/09/2023,191,Batata Doce Branca,6.00
+28/09/2023,191,Tomate Cereja Vermelho,4.32
+28/09/2023,191,Ovos Caipira,2.50
+28/09/2023,191,Couve Manteiga,1.54
+28/09/2023,191,Lippia Alba,0.85
+28/09/2023,191,Capim Cidreira,0.65
+28/09/2023,191,Hortelã do NOrte,0.50
+28/09/2023,191,Hortelã,0.16
+28/09/2023,191,Alecrim,0.01
+04/01/2024,205,Mandioca Branca,7.58
+04/01/2024,205,Mini-Moranga,3.65
+04/01/2024,205,Banana Maçã,2.61
+04/01/2024,205,Coco descascado,1.80
+04/01/2024,205,Goiaba pequena,0.89
+04/01/2024,205,Hortelã Pimenta,0.56
+04/01/2024,205,Lippia Alba,0.42
+04/01/2024,205,Capim Cidreira,0.29
+04/01/2024,205,Orapronóbis,0.16
+04/01/2024,205,Árvore do Caril,0.03
+04/01/2024,205,Alecrim,0.01
+12/01/2024,206,Mandioca Branca,4.64
+12/01/2024,206,Banana Prata,3.97
+12/01/2024,206,Milho Amarelo,3.72
+12/01/2024,206,Mini-Moranga,2.09
+12/01/2024,206,Goiaba Branca,0.57
+12/01/2024,206,Vagem de Corda,0.29
+12/01/2024,206,Capim Cidreira,0.24
+12/01/2024,206,Alecrim,0.01
+19/01/2024,207,Mandioca Branca,10.61
+19/01/2024,207,Banana Prata,6.47
+19/01/2024,207,Milho Verde,5.30
+19/01/2024,207,Lippia Alba,0.52
+19/01/2024,207,Vagem de Corda,0.37
+19/01/2024,207,Capim Cidreira,0.36
+19/01/2024,207,Almeirão Pão de Açúcar,0.35
+19/01/2024,207,Orapronóbis,0.26
+19/01/2024,207,Espinafre Africano,0.26
+19/01/2024,207,Hortelã Pimenta,0.08
+19/01/2024,207,Hortelã,0.07
+19/01/2024,207,Alecrim,0.01
+26/01/2024,208,Mandioca Branca,7.49
+26/01/2024,208,Milho Verde,4.23
+26/01/2024,208,Banana Maçã,3.16
+26/01/2024,208,Coco descascado,1.27
+26/01/2024,208,Jambo Vermelho,0.52
+26/01/2024,208,Lippia Alba,0.40
+26/01/2024,208,Capim Cidreira,0.29
+26/01/2024,208,Orapronóbis,0.26
+26/01/2024,208,Vagem de Corda,0.20
+26/01/2024,208,Hortelã Pimenta,0.11
+26/01/2024,208,Alecrim,0.00
+02/02/2024,209,Banana Maçã,5.44
+02/02/2024,209,Mandioca Branca,5.00
+02/02/2024,209,Mini Moranga,2.62
+02/02/2024,209,Abacate,2.24
+02/02/2024,209,Pepino Aodai,0.72
+02/02/2024,209,Lippia Alba,0.60
+02/02/2024,209,Romã,0.56
+02/02/2024,209,Orapronóbis,0.41
+02/02/2024,209,Capim Cidreira,0.32
+02/02/2024,209,Alecrim,0.01
+09/02/2024,210,Mandioca Branca,7.00
+09/02/2024,210,Mini Moranga,2.13
+09/02/2024,210,Vagem de Corda,0.69
+09/02/2024,210,Rabanete,0.64
+09/02/2024,210,Espinafre Africano,0.38
+09/02/2024,210,Capim Cidreira,0.18
+09/02/2024,210,Jambo Vermelho,0.15
+09/02/2024,210,Hortelã Pimenta,0.15
+09/02/2024,210,Hortelã,0.06
+09/02/2024,210,Alecrim,0.01
+16/02/2024,211,Mandioca Branca,6.80
+16/02/2024,211,Limão Cravo,4.90
+16/02/2024,211,Mini Moranga,2.72
+16/02/2024,211,Hortelã Pimenta,1.00
+16/02/2024,211,Taioba,0.60
+16/02/2024,211,Rabanete,0.54
+16/02/2024,211,Lippia Alba,0.41
+16/02/2024,211,Cebolinha,0.36
+16/02/2024,211,Maxixe do Norte,0.33
+16/02/2024,211,Vagem de Corda,0.30
+16/02/2024,211,Orapronóbis,0.25
+16/02/2024,211,Espinafre Africano,0.19
+16/02/2024,211,Alecrim,0.01
+22/02/2024,212,Banana Prata,3.30
+22/02/2024,212,Limão Cravo,2.73
+22/02/2024,212,Mandioca Branca,1.73
+22/02/2024,212,Mini Moranga,1.55
+22/02/2024,212,Rabanete,0.61
+22/02/2024,212,Vagem de Corda,0.27
+22/02/2024,212,Capim Cidreira,0.20
+22/02/2024,212,Araçá,0.16
+01/03/2024,213,Banana Maçã,4.16
+01/03/2024,213,Mandioca Branca,3.39
+01/03/2024,213,Batata Doce Branca,1.20
+01/03/2024,213,Banana Prata,1.14
+01/03/2024,213,Mini-Moranga,0.88
+01/03/2024,213,Maxixe do Norte,0.66
+01/03/2024,213,Alface Crespa,0.59
+01/03/2024,213,Vagem de Corda,0.36
+01/03/2024,213,Capim Cidreira,0.14
+01/03/2024,213,Orapronóbis,0.13
+01/03/2024,213,Pimenta Biquinho Vermelha,0.05
+01/03/2024,213,Alecrim,0.00
+08/03/2024,214,Abóbora Moranga,4.17
+08/03/2024,214,Mandioca Branca,2.60
+08/03/2024,214,Limão Galego,1.48
+08/03/2024,214,Coco descascado,1.26
+08/03/2024,214,Mamão Formosa,1.14
+08/03/2024,214,Maxixe do Norte,1.04
+08/03/2024,214,Alface Elba,0.51
+08/03/2024,214,Vagem de Corda,0.40
+08/03/2024,214,Lippia Alba,0.40
+08/03/2024,214,Capim Cidreira,0.25
+08/03/2024,214,Mini-Moranga,0.22
+08/03/2024,214,Hortelã Pimenta,0.20
+08/03/2024,214,Urucum,0.18
+08/03/2024,214,Lavanda,0.03
+08/03/2024,214,Pimenta BIquinho Vermelha,0.02
+08/03/2024,214,Alecrim,0.01
+15/03/2024,215,Banana Prata,4.31
+15/03/2024,215,Mandioca Branca,3.80
+15/03/2024,215,Maxixe do Norte,1.30
+15/03/2024,215,Alface Elba,1.04
+15/03/2024,215,Vagem de Corda,0.63
+15/03/2024,215,Rabanete,0.50
+15/03/2024,215,Lippia Alba,0.32
+15/03/2024,215,Tomate Cereja Vermelho,0.31
+15/03/2024,215,Capim Cidreira,0.30
+15/03/2024,215,Orapronóbis,0.29
+15/03/2024,215,Pimenta Biquinho Vermelha,0.03
+15/03/2024,215,Alecrim,0.01
+22/03/2024,216,Banana Maçã,4.45
+22/03/2024,216,Limão Cravo,3.58
+22/03/2024,216,Abóbora Moranga,1.78
+22/03/2024,216,Rabanete,1.44
+22/03/2024,216,Mini-Moranga,1.40
+22/03/2024,216,Alface Elba,0.98
+22/03/2024,216,Maxixe do Norte,0.60
+22/03/2024,216,Vagem de Corda,0.44
+22/03/2024,216,Tomate Cereja Vermelho,0.23
+22/03/2024,216,Capim Cidreira,0.16
+22/03/2024,216,Pimenta BIquinho Vermelha,0.02
+22/03/2024,216,Alecrim,0.01
+28/03/2024,217,Limão Cravo,4.33
+28/03/2024,217,Banana Prata,3.10
+28/03/2024,217,Mandioca Branca,2.75
+28/03/2024,217,Abóbora Moranga,1.33
+28/03/2024,217,Alface Crespa,1.32
+28/03/2024,217,Rabanete,1.29
+28/03/2024,217,Vagem de Corda,0.43
+28/03/2024,217,Maxixe do Norte,0.43
+28/03/2024,217,Cúrcuma,0.37
+28/03/2024,217,Lippia Alba,0.27
+28/03/2024,217,Tomate Cereja Vermelho,0.20
+28/03/2024,217,Capim Cidreira,0.09
+28/03/2024,217,Alecrim,0.01
+05/04/2024,218,Banana Maçã,6.35
+05/04/2024,218,Mandioca Branca,5.91
+05/04/2024,218,Abóbora Moranga,5.03
+05/04/2024,218,Limão Galego,3.46
+05/04/2024,218,Alface Americana,2.00
+05/04/2024,218,Rabanete,1.80
+05/04/2024,218,Vagem de Corda,0.78
+05/04/2024,218,Tomate Cereja Vermelho,0.53
+05/04/2024,218,Lippia Alba,0.30
+05/04/2024,218,Cebolinha,0.30
+05/04/2024,218,Capim Cidreira,0.15
+05/04/2024,218,Alecrim,0.01
+12/04/2024,219,Mandioca Branca,7.00
+12/04/2024,219,Banana Prata,6.00
+12/04/2024,219,Mamão Formosa,4.96
+12/04/2024,219,Abóbora Moranga,3.77
+12/04/2024,219,Coco descascado,1.89
+12/04/2024,219,Alface Americana,1.04
+12/04/2024,219,Tomate Cereja Vermelho,1.00
+12/04/2024,219,Vagem de COrda,0.39
+12/04/2024,219,Lippia Alba,0.30
+19/04/2024,220,Banana Prata,6.04
+19/04/2024,220,Abóbora Moranga,5.89
+19/04/2024,220,Mamão Formosa,5.33
+19/04/2024,220,Coco descascado,3.88
+19/04/2024,220,Jabuticaba,1.00
+19/04/2024,220,Beterraba,0.95
+19/04/2024,220,Quiabo Sta Cruz,0.70
+19/04/2024,220,Tomate Cereja Vermelho,0.70
+19/04/2024,220,Lippia Alba,0.59
+19/04/2024,220,Vagem de Corda,0.51
+19/04/2024,220,Alecrim,0.01
+27/04/2024,221,Mandioca Branca,8.42
+27/04/2024,221,Mamão Formosa,7.15
+27/04/2024,221,Banana Prata,4.76
+27/04/2024,221,Abóbora Menina Brasileira,3.31
+27/04/2024,221,Coco descascado,2.30
+27/04/2024,221,Maxixe Liso Gibão,1.90
+27/04/2024,221,Tomate Cerea Vermelho,1.50
+27/04/2024,221,Quiabo Sta Cruz,1.31
+27/04/2024,221,Jiló Comprido,1.13
+27/04/2024,221,Abóbora MOranga,0.70
+27/04/2024,221,Vagem Tempesta,0.40
+27/04/2024,221,Lippia ALba,0.37
+27/04/2024,221,Vagem de Corda,0.36
+03/05/2024,222,Banana Prata,7.45
+03/05/2024,222,Limão Cravo,5.65
+03/05/2024,222,Mamão Formosa,5.60
+03/05/2024,222,Maxixe Liso Gibão,3.04
+03/05/2024,222,Tomate Cereja VErmelho,1.80
+03/05/2024,222,Coco descascado,1.67
+03/05/2024,222,Quiabo Sta Cruz,1.08
+03/05/2024,222,Vagem Tempesta,0.58
+03/05/2024,222,Vagem de COrda,0.32
+10/05/2024,223,Banana Prata,7.96
+10/05/2024,223,Mamão Formosa,6.23
+10/05/2024,223,Limão Cravo,5.36
+10/05/2024,223,Tomate Cereja Vermelho,1.88
+10/05/2024,223,MAxixe Liso Gibão,1.46
+10/05/2024,223,Alface Americana,0.91
+10/05/2024,223,Cúrcuma,0.28
+10/05/2024,223,Vagem de COrda,0.22
+10/05/2024,223,Capim Cidreira,0.18
+10/05/2024,223,Vagem Tempesta,0.11
+10/05/2024,223,Pimenta Biquinho Vermelha,0.09
+10/05/2024,223,Alecrim,0.01
+17/05/2024,224,Banana Prata,6.61
+17/05/2024,224,Mamão Formosa,5.45
+17/05/2024,224,Abóbora MOranga,3.74
+17/05/2024,224,Limão Cravo,2.75
+17/05/2024,224,Limão Galego,2.36
+17/05/2024,224,Tomate Cereja Vermelho,1.66
+17/05/2024,224,Coco descascado,1.64
+17/05/2024,224,Maxixe Liso Gibão,0.62
+17/05/2024,224,Lippia Alba,0.49
+17/05/2024,224,Maracujá Azedo,0.41
+17/05/2024,224,Orapronóbis,0.35
+17/05/2024,224,Maracujá Doce,0.20
+17/05/2024,224,Alecrim,0.01
+24/05/2024,225,Banana Prata,8.44
+24/05/2024,225,Mamão Formosa,6.82
+24/05/2024,225,Limão Cravo,2.90
+24/05/2024,225,Tomate Cereja Vermelho,2.78
+24/05/2024,225,Coco descascado,2.60
+24/05/2024,225,Cará Cascudo,1.57
+24/05/2024,225,Limão Galego,1.44
+24/05/2024,225,Maracujá Azedo,0.87
+24/05/2024,225,Pitanga,0.63
+24/05/2024,225,Alecrim,0.01
+31/05/2024,226,Mandioca Branca,5.89
+31/05/2024,226,Banana Prata,5.01
+31/05/2024,226,Mamão Formosa,4.15
+31/05/2024,226,Tomate Cereja Vermelho,2.00
+31/05/2024,226,Coco descascado,1.86
+31/05/2024,226,Maracujá Azedo,0.75
+31/05/2024,226,Lippia Alba,0.34
+31/05/2024,226,Cúrcuma,0.21
+31/05/2024,226,Alecrim,0.01
+31/05/2024,226,Menta,0.01
+07/06/2024,227,Banana Prata,8.35
+07/06/2024,227,Mamão Formosa,7.63
+07/06/2024,227,Batata Doce Branca,4.91
+07/06/2024,227,Tomate Cereja Vermelho,2.29
+07/06/2024,227,Cúrcuma,0.31
+07/06/2024,227,Urucum,0.27
+07/06/2024,227,Lippia Alba,0.26
+07/06/2024,227,Alecrim,0.01
+14/06/2024,228,Banana Prata,5.12
+14/06/2024,228,Mamão Formosa,5.03
+14/06/2024,228,Mandioca BRanca,3.79
+14/06/2024,228,Banana Maçã,2.91
+14/06/2024,228,Tomate Cereja Vermelho,1.64
+14/06/2024,228,Lippia Alba,0.23
+14/06/2024,228,Hortelã Pimenta,0.20
+14/06/2024,228,Alecrim,0.01
+21/06/2024,229,Mamão Formosa,6.16
+21/06/2024,229,Banana Prata,4.85
+21/06/2024,229,Batata Doce Branca,3.44
+21/06/2024,229,Banana Maçã,3.22
+21/06/2024,229,Tomate Cereja Vermelho,2.76
+21/06/2024,229,Cúrcuma,0.52
+21/06/2024,229,Lippia Alba,0.26
+21/06/2024,229,Alecrim,0.01
+28/06/2024,230,Banana Maçã,8.38
+28/06/2024,230,Mamão Papaia,5.01
+28/06/2024,230,Banana Prata,4.06
+28/06/2024,230,Mamão Formosa,3.63
+28/06/2024,230,Alface Crespa,2.54
+28/06/2024,230,Tomate Cereja Vermelho,1.18
+28/06/2024,230,Lippia Alba,0.20
+28/06/2024,230,Alecrim,0.01
+05/07/2024,231,Mamão Formosa,6.59
+05/07/2024,231,Banana Maçã,3.53
+05/07/2024,231,Banana Prata,3.24
+05/07/2024,231,Mamão Papaia,3.13
+05/07/2024,231,Tomate Cereja Vermelho,2.07
+05/07/2024,231,Alface Crespa,1.37
+05/07/2024,231,Rabanete,0.57
+05/07/2024,231,Alecrim,0.01
+12/07/2024,232,Mamão Formosa,4.61
+12/07/2024,232,Batata Doce Branca,3.19
+12/07/2024,232,Tomate Cereja Vermelho,2.00
+12/07/2024,232,Vagem Feijão Bolinha,1.97
+12/07/2024,232,Alface Crespa,1.88
+12/07/2024,232,Coco descascado,1.83
+12/07/2024,232,Mamão Papaia,1.77
+12/07/2024,232,Cúrcuma,0.84
+12/07/2024,232,Rabanete,0.40
+12/07/2024,232,Alecrim,0.01
+19/07/2024,233,Mamão Formosa,6.18
+19/07/2024,233,Mandioca Branca,4.56
+19/07/2024,233,Banana Prata,4.10
+19/07/2024,233,Coco descascado,3.04
+19/07/2024,233,Alface Crespa,1.91
+19/07/2024,233,Tomate Cereja Vermelho,1.60
+19/07/2024,233,Vagem Feijão Bolinha,0.73
+19/07/2024,233,Tamarindo,0.38
+19/07/2024,233,Alecrim,0.01
+26/07/2024,234,Mamão Formosa,6.96
+26/07/2024,234,Banana Prata,5.42
+26/07/2024,234,Alface Crespa,2.00
+26/07/2024,234,Tomate Cereja Vermelho,1.24
+26/07/2024,234,Coco descascado,1.05
+26/07/2024,234,Rabanete,0.55
+26/07/2024,234,Vagem Feijão Bolinha,0.43
+26/07/2024,234,Alecrim,0.00
+02/08/2024,235,Mamão Formosa,6.77
+02/08/2024,235,Banana Maçã,5.82
+02/08/2024,235,Mandioca Branca,4.27
+02/08/2024,235,Banana Prata,4.22
+02/08/2024,235,Alface Crespa,2.32
+02/08/2024,235,Tamarindo,0.96
+02/08/2024,235,Alecrim,0.01
+09/08/2024,236,Banana Prata,5.92
+09/08/2024,236,Mamão Formosa,5.06
+09/08/2024,236,Coco descascado,2.09
+09/08/2024,236,Alface Crespa,0.78
+09/08/2024,236,Salsa,0.50
+09/08/2024,236,Jiló Comprido,0.40
+09/08/2024,236,Hortelã Pimenta,0.30
+09/08/2024,236,Rabanete,0.24
+09/08/2024,236,Jambuaçu,0.21
+09/08/2024,236,Lippia Alba,0.20
+09/08/2024,236,Alecrim,0.00
+16/08/2024,237,Mamão Formosa,4.67
+16/08/2024,237,Banana Prata,4.09
+16/08/2024,237,Tamarindo,3.60
+16/08/2024,237,Banana Maçã,2.39
+16/08/2024,237,Coco descascados,1.29
+16/08/2024,237,Mamão Papaia,1.16
+16/08/2024,237,Vagem Feijão Bolinha,0.28
+16/08/2024,237,Hortelã Pimenta,0.27
+16/08/2024,237,Alecrim,0.01
+23/08/2024,238,Banana Maçã,4.93
+23/08/2024,238,Mamão Formosa,3.49
+23/08/2024,238,Batata Doce BRanca,3.44
+23/08/2024,238,Banana Prata,2.99
+23/08/2024,238,Limão Cravo,2.55
+23/08/2024,238,Feijão Bolinha,1.21
+23/08/2024,238,Jiló Comprido,0.78
+23/08/2024,238,MAracujá Doce,0.39
+23/08/2024,238,Tomate Cereja Vermelho,0.36
+23/08/2024,238,Maracujá Azedo,0.26
+23/08/2024,238,Alecrim,0.01
+30/08/2024,239,Banana Maçã,5.45
+30/08/2024,239,Batata Doce Branca,4.89
+30/08/2024,239,Limão Cravo,4.53
+30/08/2024,239,Tamarindo,3.09
+30/08/2024,239,Mamão Formosa,3.04
+30/08/2024,239,Mamão Papaia,1.53
+30/08/2024,239,Banana Prata,1.16
+30/08/2024,239,Cúrcuma,0.67
+30/08/2024,239,Lippia Alba,0.46
+30/08/2024,239,Alecrim,0.01
+06/09/2024,240,Batata Doce BRanca,5.95
+06/09/2024,240,Banana Prata,3.70
+06/09/2024,240,Banana Maçã,3.57
+06/09/2024,240,Coco descascado,1.91
+06/09/2024,240,Tomate Cereja Vermelho,0.70
+06/09/2024,240,Lippia Alba,0.37
+06/09/2024,240,Alecrim,0.01
+13/09/2024,241,Mandioca Branca,5.79
+13/09/2024,241,Banana Prata,4.82
+13/09/2024,241,Banana Maçã,2.18
+13/09/2024,241,Coco descascado,2.05
+13/09/2024,241,Maracujá Doce,1.91
+13/09/2024,241,Tomate Cereja Vermelho,0.44
+13/09/2024,241,Lippia Alba,0.42
+13/09/2024,241,Tomate Pera Amarelo,0.32
+13/09/2024,241,Alecrim,0.01
+20/09/2024,242,Batata Doce BRanca,4.84
+20/09/2024,242,Banana Prata,4.25
+20/09/2024,242,Mamão Papaia,2.24
+20/09/2024,242,Mamão Formosa,1.86
+20/09/2024,242,Coco descascado,1.38
+20/09/2024,242,Alface Crespa,1.37
+20/09/2024,242,Tomate Cereja Vermelho,0.93
+20/09/2024,242,Jambuaçu,0.60
+20/09/2024,242,Alface Lisa,0.59
+20/09/2024,242,Tomate Pera Amarelo,0.53
+20/09/2024,242,Lippia Alba,0.33
+20/09/2024,242,Manjericão Limoncino,0.02
+20/09/2024,242,Alecrim,0.01
+27/09/2024,243,Banana Prata,6.20
+27/09/2024,243,Mamão Formosa,4.87
+27/09/2024,243,Coco descascado,3.30
+27/09/2024,243,Mamão Papaia,2.06
+27/09/2024,243,Maracujá Doce,0.90
+27/09/2024,243,Alface Crespa,0.87
+27/09/2024,243,Tomate Pera Amarelo,0.55
+27/09/2024,243,Alface Lisa,0.48
+27/09/2024,243,Jiló Comprido,0.37
+27/09/2024,243,Árvore do Caril,0.27
+27/09/2024,243,Tomate Cereja Vermelho,0.27
+27/09/2024,243,Alecrim,0.01
+04/10/2024,244,Banana PRata,6.73
+04/10/2024,244,Banana Maçã,5.53
+04/10/2024,244,Mamão Papaia,3.97
+04/10/2024,244,Mamão Formosa,2.89
+04/10/2024,244,Tamarindo,2.10
+04/10/2024,244,Tomate Cereja Vermelho,1.01
+04/10/2024,244,Alface Crespa,0.95
+04/10/2024,244,Alface Americana,0.53
+04/10/2024,244,Alecrim,0.01
+11/10/2024,245,Mamão Formosa,7.42
+11/10/2024,245,Banana Maçã,6.79
+11/10/2024,245,Banana Prata,2.00
+11/10/2024,245,Maracujá Doce,1.25
+11/10/2024,245,Alface Crespa,0.98
+11/10/2024,245,Nabo Japonês,0.59
+11/10/2024,245,Jiló Comprido,0.54
+11/10/2024,245,Alface Lisa,0.54
+11/10/2024,245,Vagem Feijão Bolinha,0.31
+11/10/2024,245,Tomate Pera Amarelo,0.30
+11/10/2024,245,Caju Vermelho,0.28
+11/10/2024,245,Tomate Cereja Vermelho,0.25
+11/10/2024,245,Sementes de Coentro,0.02
+11/10/2024,245,Alecrim,0.01
+18/10/2024,246,Abóbora Bege Redonda,7.42
+18/10/2024,246,Batata Doce BRanca,5.00
+18/10/2024,246,Banana Prata,4.75
+18/10/2024,246,Mamão Formosa,3.56
+18/10/2024,246,Maracujá Doce,1.63
+18/10/2024,246,Abóbora Mini Paulista,1.50
+18/10/2024,246,Alface Crespa,1.30
+18/10/2024,246,Maxixe Liso Gibão,0.96
+18/10/2024,246,Lippia Alba,0.58
+18/10/2024,246,Vagem Feijão Bolinha,0.22
+18/10/2024,246,Alecrim,0.01
+25/10/2024,247,Banana Prata,6.58
+25/10/2024,247,Batata Doce Branca,5.79
+25/10/2024,247,Maracujá Doce,2.78
+25/10/2024,247,Nabo Japonês,2.19
+25/10/2024,247,Caju Vermelho Anão,2.72
+25/10/2024,247,Maxixe Liso Gibão,1.97
+25/10/2024,247,Lippia Alba,0.55
+01/11/2024,248,Mandioca Branca,5.60
+01/11/2024,248,Mamão Papaia,5.12
+01/11/2024,248,Banana Prata,4.85
+01/11/2024,248,Manga Manteiguinha,4.00
+01/11/2024,248,Mamão Formosa,2.00
+01/11/2024,248,Caju Vermelho Anão,1.41
+01/11/2024,248,Maxixe Liso Gibão,1.19
+01/11/2024,248,Nabo Japonês,1.11
+01/11/2024,248,Lippia Alba,0.51
+01/11/2024,248,Alecrim,0.01
+08/11/2024,249,Mamão Formosa,9.71
+08/11/2024,249,Manga MAnteiguinha,5.95
+08/11/2024,249,Banana Maçã,5.86
+08/11/2024,249,Caju Vermelho Anão,2.89
+08/11/2024,249,MAxixe Liso Gibão,2.17
+08/11/2024,249,NAbo JAponês,1.80
+08/11/2024,249,Lippia Alba,0.57
+08/11/2024,249,Citronela,0.30
+08/11/2024,249,Alecrim,0.01
+15/11/2024,250,Manga Manteiguinha,12.35
+15/11/2024,250,Manga Tommy,8.64
+15/11/2024,250,Mamão Formosa,7.85
+15/11/2024,250,Abóbora Moranga,5.80
+15/11/2024,250,Maxixe Liso Gibão,2.69
+15/11/2024,250,Capim Cidreira,1.00
+15/11/2024,250,Alface Crespa,0.95
+15/11/2024,250,Jiló Comprido,0.75
+22/11/2024,251,Manga Manteiguinha,9.95
+22/11/2024,251,Manga Tommy,9.26
+22/11/2024,251,Banana Maçã,7.62
+22/11/2024,251,Abóbora Moranga,7.60
+22/11/2024,251,Maxixe Liso Gibão,3.29
+22/11/2024,251,Banana Prata,1.68
+22/11/2024,251,Lippia Alba,0.48
+29/11/2024,252,Manga Manteiguinha,9.74
+29/11/2024,252,Banana Prata,8.70
+29/11/2024,252,Manga Háden,7.87
+29/11/2024,252,Abóbora Moranga,5.89
+29/11/2024,252,Coco descascado,1.90
+29/11/2024,252,Lippia Alba,0.51
+29/11/2024,252,Capim Cidreira,0.13
+29/11/2024,252,Alecrim,0.01
+06/12/2024,253,Maxixe Liso Gibão,10.67
+06/12/2024,253,Banana Maçã,8.05
+06/12/2024,253,Manga Manteiguinha,6.12
+06/12/2024,253,Maracujá Doce,2.78
+06/12/2024,253,Jiló Comprido,1.00
+06/12/2024,253,Lippia Alba,0.38
+06/12/2024,253,Alecrim,0.02
+13/12/2024,254,Banana Prata,13.47
+13/12/2024,254,Maxixe LIso Gibão,10.00
+13/12/2024,254,Abóbora Caipira,8.70
+13/12/2024,254,Manga Manteiguinha,3.39
+13/12/2024,254,Maracujá Doce,1.56
+13/12/2024,254,Mamão Papaia,0.89
+13/12/2024,254,Hortelã Pimenta,0.80
+13/12/2024,254,Orapronóbis,0.40
+13/12/2024,254,Manjericão Roxo,0.19
+20/12/2024,255,Abóbora Caipira,8.47
+20/12/2024,255,Banana Prata,8.10
+20/12/2024,255,MAnga Manteiguinha,5.32
+20/12/2024,255,MAxixe Liso Gibão,5.02
+20/12/2024,255,Coco descascado,1.92
+20/12/2024,255,Lippia Alba,0.68
+20/12/2024,255,Orapronóbis,0.54
+20/12/2024,255,Alecrim,0.18
+27/12/2024,256,Banana Prata,11.86
+27/12/2024,256,Abóbora Moranga,4.66
+27/12/2024,256,Manga MAnteiguinha,4.45
+27/12/2024,256,MAxixe Liso Gibão,2.65
+27/12/2024,256,MAracujá Doce,1.64
+27/12/2024,256,Capim Cidreira,0.78
+27/12/2024,256,Jiló COmprido,0.58
+27/12/2024,256,Orapronóbis,0.52
+27/12/2024,256,Alecrim,0.01
+03/01/2025,257,Banana Maçã,9.41
+03/01/2025,257,Mandioca BRanca,7.39
+03/01/2025,257,Banana Prata,5.98
+03/01/2025,257,Manga Manteiguinha,5.58
+03/01/2025,257,Maxixe Liso Gibão,0.88
+03/01/2025,257,Maracujá Doce,0.87
+03/01/2025,257,Capim Cidreira,0.62
+03/01/2025,257,Coco descascado,0.56
+03/01/2025,257,Jiló Comprido,0.44
+03/01/2025,257,Alecrim,0.01
+10/01/2025,258,Maracujá Doce,4.85
+10/01/2025,258,Banana Maçã,4.76
+10/01/2025,258,Mandioca Branca,4.63
+10/01/2025,258,Mandioca Amarela,3.07
+10/01/2025,258,Jiló Comprido,0.83
+10/01/2025,258,Tomate Cereja Vermelho,0.74
+10/01/2025,258,Capim Cidreira,0.62
+10/01/2025,258,Orapronóbis,0.47
+10/01/2025,258,Alecrim,0.01
+17/01/2025,259,Maracujá Doce,7.06
+17/01/2025,259,Banana Maçã,5.79
+17/01/2025,259,Banana Prata,2.58
+17/01/2025,259,Jiló COmprido,1.42
+17/01/2025,259,Tomate Cereja VErmelho,1.21
+17/01/2025,259,Capim Cidreira,0.92
+17/01/2025,259,Taioba,0.50
+17/01/2025,259,Hortelã PImenta,0.40
+17/01/2025,259,Cúrcuma,0.33
+17/01/2025,259,Alecrim,0.02
+24/01/2025,260,Banana PRata,7.06
+24/01/2025,260,Banana Maçã,4.38
+24/01/2025,260,Maracujá Doce,3.07
+24/01/2025,260,Tomate Cereja Vermelho,2.19
+24/01/2025,260,Jiló Comprido,1.54
+24/01/2025,260,Capim Cidreira,0.54
+24/01/2025,260,Taioba,0.50
+24/01/2025,260,Alecrim,0.01
+31/01/2025,261,Banana Prata,9.28
+31/01/2025,261,Coco descascado,1.71
+31/01/2025,261,Cenoura,1.59
+31/01/2025,261,Tomate CEreja Vermelho,1.40
+31/01/2025,261,Jiló Comprido,1.28
+31/01/2025,261,Capim Cidreira,0.55
+31/01/2025,261,Almeirão Hadiche,0.45
+31/01/2025,261,Taioba,0.40
+31/01/2025,261,Alecrim,0.01
+07/02/2025,262,Banana Maçã,8.21
+07/02/2025,262,Banana Prata,4.38
+07/02/2025,262,Abóbora Moranga,4.17
+07/02/2025,262,Tomate Cereja Vermelho,3.00
+07/02/2025,262,Almeirão Hadiche,0.45
+07/02/2025,262,Capim Cidreira,0.33
+07/02/2025,262,Alecrim,0.01
+14/01/2025,263,Banana Prata,5.69
+14/01/2025,263,Abóbora Moranga,5.11
+14/01/2025,263,Mandioca Branca,5.05
+14/01/2025,263,Tomate Cereja Vermelho,1.27
+14/01/2025,263,Jiló Comprido,0.84
+14/01/2025,263,Capim Cidreira,0.52
+14/01/2025,263,Almeirão Hadiche,0.50
+14/01/2025,263,Taioba,0.31
+21/02/2025,264,Banana Prata,6.30
+21/02/2025,264,Abóbora Moranga,3.84
+21/02/2025,264,Mandioca Branca,3.55
+21/02/2025,264,Tomate Cereja Vermelho,1.64
+21/02/2025,264,Mandioca Amarela,0.97
+21/02/2025,264,Capim Cidreira,0.42
+21/02/2025,264,Taioba,0.36
+21/02/2025,264,Alecrim,0.01
+28/02/2025,265,Banana Prata,6.57
+28/02/2025,265,Banana Maçã,5.28
+28/02/2025,265,Abóbora Moranga,4.87
+28/02/2025,265,Maracujá Doce,2.13
+28/02/2025,265,Tomate Cereja Vermelho,1.97
+28/02/2025,265,Taioba,0.18
+28/02/2025,265,Alecrim,0.01
+07/03/2025,266,Banana Prata,5.86
+07/03/2025,266,Abóbora Moranga,5.21
+07/03/2025,266,Coco descascado,2.44
+07/03/2025,266,Maracujá Doce,2.26
+07/03/2025,266,Tomate Cereja Vermelho,1.06
+07/03/2025,266,Quiabo Sta Cruz,0.85
+07/03/2025,266,Alecrim,0.01
+14/03/2025,267,Banana Prata,7.27
+14/03/2025,267,MAndioca BRanca,5.41
+14/03/2025,267,Maracujá Doce,2.50
+14/03/2025,267,Tomate Cereja Vermelho,1.50
+14/03/2025,267,Abóbora MOranga,1.00
+14/03/2025,267,Almeirão Hadiche,0.69
+14/03/2025,267,Quiabo Sta Cruz,0.57
+14/03/2025,267,Cúrcuma,0.40
+14/03/2025,267,Capim Cidreira,0.31
+14/03/2025,267,Alecrim,0.01
+21/03/2025,268,Banana Prata,5.35
+21/03/2025,268,Banana Maçã,4.55
+21/03/2025,268,Abóbora MOranga,2.95
+21/03/2025,268,MAracujá Doce,1.78
+21/03/2025,268,Coco descascado,1.69
+21/03/2025,268,Almeirão Hadiche,0.74
+21/03/2025,268,Quiabo Sta Cruz,0.69
+21/03/2025,268,Tomate Cereja Vermelho,0.67
+21/03/2025,268,ORapronóbis,0.30
+21/03/2025,268,Taioba,0.30
+21/03/2025,268,Alecrim,0.01
+28/03/2025,269,Banana Prata,7.33
+28/03/2025,269,Mandioca Branca,6.68
+28/03/2025,269,Banana Nanicão,2.26
+28/03/2025,269,Mandioca Amarela,1.70
+28/03/2025,269,Capim Cidreira,0.70
+28/03/2025,269,Quiabo Sta Cruz,0.63
+28/03/2025,269,Orapronóbis,0.53
+28/03/2025,269,Lippia Alba,0.45
+28/03/2025,269,Alecrim,0.01
+04/04/2025,270,Banana Prata,11.08
+04/04/2025,270,Mamão Papaia,3.44
+04/04/2025,270,Mamão Formosa,3.07
+04/04/2025,270,Almeirão Hadiche,0.72
+04/04/2025,270,Quiabo Sta Cruz,0.52
+04/04/2025,270,Capim Cidreira,0.39
+04/04/2025,270,Cúrcuma,0.29
+04/04/2025,270,Alecrim,0.02
+11/04/2025,271,Banana Prata,13.19
+11/04/2025,271,Banana Maçã,6.46
+11/04/2025,271,Mamão Formosa,6.10
+11/04/2025,271,Citronela,0.87
+11/04/2025,271,Taioba,0.60
+11/04/2025,271,Lippia Alba,0.52
+11/04/2025,271,Salsa,0.14
+11/04/2025,271,Alecrim,0.03
+18/04/2025,272,Banana PRata,7.67
+18/04/2025,272,Mamão Formosa,4.73
+18/04/2025,272,Banana Maçã,2.19
+18/04/2025,272,Hortelã PImenta,1.31
+18/04/2025,272,Mamão PApaia,1.26
+18/04/2025,272,Almeirão Hadiche,0.68
+18/04/2025,272,Taioba,0.62
+18/04/2025,272,Quiabo Sta Cruz,0.30
+18/04/2025,272,Bucha Vegetal,0.20
+18/04/2025,272,Piment Dedo de Moça Vermelho,0.04
+18/04/2025,272,Alecrim,0.02
+25/04/2025,273,Banana Maçã,7.78
+25/04/2025,273,Banana Prata,7.52
+25/04/2025,273,Mamão Formosa,3.82
+25/04/2025,273,Mamão Papaia,0.93
+25/04/2025,273,Capim Cidreira,0.72
+25/04/2025,273,Almeirão HAdiche,0.52
+25/04/2025,273,Taioba,0.50
+25/04/2025,273,Quiabo Sta Cruz,0.46
