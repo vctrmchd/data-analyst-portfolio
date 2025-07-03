@@ -228,7 +228,7 @@ colheita <- colheita %>%
   mutate(
    variedade = str_replace_all(
      str_trim(
-       if_else(cultivo == variedade | is.na(variedade), NA_character_, variedade)),
+       if_else(cultivo == variedade | is.na(variedade), "padrao", variedade)),
      " ", "_"
    )
   )
