@@ -24,7 +24,6 @@ Este projeto consiste em uma análise exploratória de dados de registros de col
     * `tidyr`: Para reorganização de dados (ex: `separate`, `unnest`).
     * `janitor`: Para limpeza e padronização de nomes de colunas.
     * `ggplot2`: Para criação de gráficos estatísticos.
-    * `plotly`: Para gráficos interativos.
     * `scales`: Para formatação de escalas em gráficos.
-    * `DT`: Para tabelas interativas no HTML.
+    * `knitr`: Para tabelas.
 * **Ferramentas:** RStudio / R Markdown
