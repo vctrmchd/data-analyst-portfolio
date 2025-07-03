@@ -240,13 +240,13 @@ head(colheita,10)
     ##    dia        id_partilha cultivo     variedade    quantidade
     ##    <date>           <dbl> <chr>       <chr>             <dbl>
     ##  1 2020-02-01           1 batata_doce branca             34  
-    ##  2 2020-02-01           1 abacate     <NA>               20  
+    ##  2 2020-02-01           1 abacate     padrao             20  
     ##  3 2020-02-01           1 mamao       formosa            14.5
     ##  4 2020-02-01           1 abobora     mini_moranga        6  
-    ##  5 2020-02-01           1 rucula      <NA>                5.5
+    ##  5 2020-02-01           1 rucula      padrao              5.5
     ##  6 2020-02-01           1 almeirao    branco              5  
-    ##  7 2020-02-01           1 cebolinha   <NA>                3.5
-    ##  8 2020-02-01           1 salsinha    <NA>                1.4
+    ##  7 2020-02-01           1 cebolinha   padrao              3.5
+    ##  8 2020-02-01           1 salsinha    padrao              1.4
     ##  9 2020-02-08           2 batata_doce branca             25  
     ## 10 2020-02-08           2 abacate     bolinha            17
 
@@ -295,13 +295,13 @@ head(colheita,30)
     ##    dia        id_partilha cultivo     variedade    quantidade tipo_cultivo
     ##    <date>           <dbl> <chr>       <chr>             <dbl> <chr>       
     ##  1 2020-02-01           1 batata_doce branca             34   tuberculo   
-    ##  2 2020-02-01           1 abacate     <NA>               20   fruta       
+    ##  2 2020-02-01           1 abacate     padrao             20   fruta       
     ##  3 2020-02-01           1 mamao       formosa            14.5 fruta       
     ##  4 2020-02-01           1 abobora     mini_moranga        6   legume      
-    ##  5 2020-02-01           1 rucula      <NA>                5.5 hortalica   
+    ##  5 2020-02-01           1 rucula      padrao              5.5 hortalica   
     ##  6 2020-02-01           1 almeirao    branco              5   hortalica   
-    ##  7 2020-02-01           1 cebolinha   <NA>                3.5 ervas       
-    ##  8 2020-02-01           1 salsinha    <NA>                1.4 ervas       
+    ##  7 2020-02-01           1 cebolinha   padrao              3.5 ervas       
+    ##  8 2020-02-01           1 salsinha    padrao              1.4 ervas       
     ##  9 2020-02-08           2 batata_doce branca             25   tuberculo   
     ## 10 2020-02-08           2 abacate     bolinha            17   fruta       
     ## # ℹ 20 more rows
