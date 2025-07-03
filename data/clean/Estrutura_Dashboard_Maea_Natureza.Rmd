@@ -34,3 +34,8 @@ always_allow_html: true
   * Participação no faturamento total (%)  
   * Número de colheitas  
   * Produção média por colheita  
+  
+# Tecnologias  
+  
+* Google Sheets para alocar os dados.  
+* LookerStudio para criação do dashboard.
