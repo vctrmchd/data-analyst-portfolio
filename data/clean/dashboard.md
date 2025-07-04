@@ -1,8 +1,7 @@
----
+
 title: "Estrutura de Dashboard – Sítio Mãeã Natureza"
 author: "Victor Machado"
 ---  
-  
 
 
 # KPIs:  
