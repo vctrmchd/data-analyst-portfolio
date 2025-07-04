@@ -516,7 +516,6 @@ producao_resumo_kable <- producao_resumo %>%
     ~ round(., 2)
   ))
 
-# Exibe tabela com kable (compatível com Markdown e GitHub)
 kable(
   producao_resumo_kable,
   format = "markdown"
