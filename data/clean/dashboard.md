@@ -1,6 +1,5 @@
 
-title: "Estrutura de Dashboard – Sítio Mãeã Natureza"
-author: "Victor Machado"
+"Estrutura de Dashboard – Sítio Mãeã Natureza"
 ---  
 
 
