@@ -1,12 +1,4 @@
----
-title: "Estrutura de Dashboard – Sítio Mãeã Natureza"
-author: "Victor Machado"
-output:
-  html_document:
-    toc: true
-    toc_depth: 2
-always_allow_html: true
----  
+**Estrutura de Dashboard – Sítio Mãeã Natureza**
   
 
 
