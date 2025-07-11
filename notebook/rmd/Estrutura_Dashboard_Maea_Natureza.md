@@ -3,10 +3,7 @@ title: "Estrutura de Dashboard – Sítio Mãeã Natureza"
 author: "Victor Machado"
 output:
   github_document:
-    toc: true
-    toc_depth: 2
-always_allow_html: true
----  
+ ---  
   
 
 
