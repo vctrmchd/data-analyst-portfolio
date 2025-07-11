@@ -1,7 +1,7 @@
 ---
 title: "Estrutura de Dashboard – Sítio Mãeã Natureza"
 author: "Victor Machado"
-output: github_document
+output: git_document
 ---  
   
 
