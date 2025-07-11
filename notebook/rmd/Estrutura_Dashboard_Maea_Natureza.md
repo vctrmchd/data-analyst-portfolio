@@ -1,9 +1,6 @@
----
-title: "Estrutura de Dashboard – Sítio Mãeã Natureza"
-author: "Victor Machado"
-output: git_document
----  
-  
+Estrutura de Dashboard – Sítio Mãeã Natureza
+================
+Victor Machado
 
 
 # KPIs:  
