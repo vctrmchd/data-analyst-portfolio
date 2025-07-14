@@ -56,9 +56,9 @@ Controle por período para permitir que o usuário selecione o intervalo de data
 Scorecards organizados em grupos de produção, diversidade, faturamento e coagricultores. Todos com o indicador de variação (%) da métrica com o período anterior.  
   
 * **Produção Total**  
-	**Fonte de dados: colheita
-	**Métrica: quantidade  
-	**Agregação: Soma (SUM)  
+	*Fonte de dados: colheita
+	*Métrica: quantidade  
+	*Agregação: Soma (SUM)  
   
 * **Colheitas no Período**  
 	**Fonte de dados: colheita
