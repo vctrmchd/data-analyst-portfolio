@@ -56,55 +56,55 @@ Controle por período para permitir que o usuário selecione o intervalo de data
 Scorecards organizados em grupos de produção, diversidade, faturamento e coagricultores. Todos com o indicador de variação (%) da métrica com o período anterior.  
   
 * **Produção Total**  
-	*Fonte de dados: colheita
-	*Métrica: quantidade  
-	*Agregação: Soma (SUM)  
+** Fonte de dados: colheita
+	Métrica: quantidade  
+	Agregação: Soma (SUM)  
   
 * **Colheitas no Período**  
-	**Fonte de dados: colheita
-	**Métrica: id_partilha  
-	**Agregação: Contar diferentes (CTD)  
+	Fonte de dados: colheita
+	Métrica: id_partilha  
+	Agregação: Contar diferentes (CTD)  
   
 * **Média por Colheita**
-	**Fonte de dados: colheita
-	**Campo calculado: "Média kg por colheita"  
-	**Fórmula: SUM(quantidade) / COUNT_DISTINCT(id_partilha)
-	**Agregação: automático. 
+	Fonte de dados: colheita
+	Campo calculado: "Média kg por colheita"  
+	Fórmula: SUM(quantidade) / COUNT_DISTINCT(id_partilha)
+	Agregação: automático. 
   
 * **Diversidade Total** 
-	**Fonte de dados: colheita 
-	**Campo calculado: "Cultivo + variedade"
-	**Fórmula: CONCAT(cultivo, " ", variedade)
-	**Agregação: automático
+  	Fonte de dados: colheita 
+  	Campo calculado: "Cultivo + variedade"
+	Fórmula: CONCAT(cultivo, " ", variedade)
+	Agregação: automático
   
 * **Média por colheita** 
-	**Fonte de dados: colheita
-	**Campo calculado: "Média variedade por colheita"
-	**Fórmula: COUNT_DISTINCT(CONCAT(CAST(id_partilha AS TEXT), '-', variedade)) / COUNT_DISTINCT(id_partilha)
-	**Agregação: automático.  
+	Fonte de dados: colheita
+	Campo calculado: "Média variedade por colheita"
+	Fórmula: COUNT_DISTINCT(CONCAT(CAST(id_partilha AS TEXT), '-', variedade)) / COUNT_DISTINCT(id_partilha)
+  	Agregação: automático.  
   
 * **Faturamento Total** 
-	**Fonte de dados: coagricultores - coagricultores_expandido
-	**Campo calculado "Faturamento"
-	**Fórmula: qt_cota * valor_cota
-	**Agregação: Soma (SUM)  
+	Fonte de dados: coagricultores - coagricultores_expandido
+	Campo calculado "Faturamento"
+	Fórmula: qt_cota * valor_cota
+	Agregação: Soma (SUM)  
   
 * **Faturamento Médio Mensal**  
-	**Fonte de dados: coagricultores - coagricultores_expandido  
-	**Campo calculado: "Faturamento mensal"  
-	**Fórmula: SUM(faturamento) / COUNT_DISTINCT(mes_ref)
-	**Agregação: automático  
+	Fonte de dados: coagricultores - coagricultores_expandido  
+	Campo calculado: "Faturamento mensal"  
+	Fórmula: SUM(faturamento) / COUNT_DISTINCT(mes_ref)
+	Agregação: automático  
   
 * **Coagricultores Ativos**  
-	**Fonte de dados: coagricultores - coagricultores_expandido
-	**Métrica: id_coagricultor  
-	**Agregação: Contar diferentes (CTD)  
+	Fonte de dados: coagricultores - coagricultores_expandido
+	Métrica: id_coagricultor  
+	Agregação: Contar diferentes (CTD)  
   
 * **Média de Permanência**
-	**Fonte de dados: coagricultores - coagricultores_expandido
-	**Campo calculado: Média permanência  
-	**Fórmula: COUNT_DISTINCT(CONCAT(CAST(id_coagricultor AS TEXT), FORMAT_DATETIME( '%Y-%m',mes_ref ) ) ) / COUNT_DISTINCT(id_coagricultor)
-	** Agregação: automático
+	Fonte de dados: coagricultores - coagricultores_expandido
+	Campo calculado: Média permanência  
+	Fórmula: COUNT_DISTINCT(CONCAT(CAST(id_coagricultor AS TEXT), FORMAT_DATETIME( '%Y-%m',mes_ref ) ) ) / COUNT_DISTINCT(id_coagricultor)
+	Agregação: automático
   
   
   
