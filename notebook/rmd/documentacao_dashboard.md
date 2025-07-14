@@ -39,11 +39,12 @@ Para desenvolver o dashboard também é necessário uma tabela expandida dos coa
 
 |id_coagricultor	|nome	|mes_ref	|qt_cota	|valot_qt	|  
 |:----------------------|-------|---------------|---------------|---------------|
-|1	|Prozaria	|01/02/2020	9	180
-|1	|Prozaria	|01/03/2020	9	180
-|1	|Prozaria	|01/04/2020	9	1||||0
-|2	|Vitor e Annie	01/02/2020	1	180
-
+|1	|Prozaria	|01/02/2020	|9	|180	|
+|1	|Prozaria	|01/03/2020	|9	|180	|
+|1	|Prozaria	|01/04/2020	|9	|180	|
+|2	|Vitor e Annie	|01/02/2020	|1	|180 	|
+|2	|Vitor e Annie	|01/03/2020	|1	|180	|
+ 
   
 # Estrutura do Dashboard e Visualizações  
   
@@ -63,7 +64,7 @@ Scorecards organizados em grupos de produção, diversidade, faturamento e coagr
   
 * **Produção Total**  
 	* Fonte de dados: colheita
-	* Métrica: quantidade  
+	* Métrica: quantidade  sd
 	* Agregação: Soma (SUM)  
   
 * **Colheitas no Período**  
@@ -112,12 +113,76 @@ Scorecards organizados em grupos de produção, diversidade, faturamento e coagr
 	* Fórmula: COUNT_DISTINCT(CONCAT(CAST(id_coagricultor AS TEXT), FORMAT_DATETIME( '%Y-%m',mes_ref ) ) ) / COUNT_DISTINCT(id_coagricultor)
 	* Agregação: automático
   
+### Visualizações Principais  
   
+* **Tendência da Produção no Período**  
+	* Tipo: Gráfico de Série Temporal
+	* Fonte de Dados: colheita
+	* Dimensão: dia 
+	* Métrica: quantidade (renomeado para "Total colhido (kg)"
+	* Agregação: soma (SUM)
+	* Métrica de Comparação: Produção Total Kg (para Ano anterior)
+	* Linha de tendência: linear
+  
+* **Tendência da Diversidade de Cultivo**
+	* Tipo: Gráfico de Série Temporal
+	* Fonte de Dados: colheita
+	* Dimensão: dia
+	* Métrica: cultivo (renomeado para "Diversidade de cultivo")
+	* Agregação: contar diferentes (CTD)
+	* Métrica de Comparação: Diversidade Total (Variedades) (para Ano anterior)
+  
+* **Maior Colheita / Menor Colheita**
+	* Tipo: Scorecards
+	* Fonte de Dados: colheita
+	* Cards para Maior Colheita:
+		* Dia da colheita
+			* Dimensão: dia (renomeado "Dia da colheita")
+			* Classificar: DESC(MAX(total_partilha))
+		* ID da Colheita
+			* Dimensão: id_partilha (renomeado "ID")
+			* Classificar: DESC(MAX(total_partilha))
+		* Total Colhido
+			* Métrica: total_partilha
+			* Agregação: Máximo (MAX)
+	*Cards para Menor Colheita:  
+		* Dia da colheita
+			* Dimensão: dia (renomeado "Dia da colheita")
+			* Classificar: ASC(MIN(total_partilha))
+		* ID da Colheita
+			* Dimensão: id_partilha (renomeado "ID")
+			* Classificar: ASC(MIN(total_partilha))
+		* Total Colhido
+			* Dimensão: total_partilha
+			* Classificar: ASC(MIN(total_partilha))
+  
+* **Faturamento por Mês (R$)**
+	* Tipo: Gráfico de Barras
+	* Fonte de Dados: coagricultores - coagricultores_expandido
+	* Dimensão: mes_ref
+	* Métrica: faturamento (renomeado "Faturamento (R$)")
+	* Agregação: soma (SUM)
+	
+* **Coagricultores Ativos ao Longo do Tempo**
+	* Tipo: Gráfico de Série Temporal
+	* Fonte de Dados: coagricultores - coagricultores_expandido
+	* Dimensão: mes_ref
+	* Métrica: id_coagricultores (renomeado "Coagricultores Ativos"
+	* Agregação: contar diferentes (CTD)
+	* Métrica de Comparação: Coagricultores Ativos (para Ano anterior).
+
+
+
+
+
+
+
+
   
   
   
 
-# Scrip Expandir Coagricultores  
+# Script Expandir Coagricultores  
   
 O script pode ser executado pelo Apps Script do Google.
 
@@ -167,10 +232,4 @@ O script pode ser executado pelo Apps Script do Google.
 	    });
 	  }
 	
-	  // Limpa o conteúdo da planilha de destino
-	  sheetDestino.clearContents();
-	  // Escreve o array de resultado na planilha de destino
-	  sheetDestino.getRange(1, 1, resultado.length, resultado[0].length).setValues(resultado);
-	}
-
-
+	  // Limpa o conteúdo da planilha de destinoDocumentação para Dashboard – Sítio Mãeã Natureza
